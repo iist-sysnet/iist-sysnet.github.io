@@ -1,0 +1,160 @@
+@import "rouge-github";
+
+@font-face {
+    font-family: 'Computer7';
+    src: url("fonts/Computer7.eot");
+    src: url("fonts/Computer7.woff2") format("woff2"),
+    url("fonts/Computer7.woff") format("woff"),
+    url("fonts/Computer7.ttf") format("truetype"),
+    url("fonts/Computer7.svg") format("svg");
+}
+
+@font-face {
+    font-family: 'Janson';
+    src: url("fonts/Janson.eot");
+    src: url("fonts/Janson.woff2") format("woff2"),
+    url("fonts/Janson.woff") format("woff"),
+    url("fonts/Janson.ttf") format("truetype"),
+    url("fonts/Janson.svg") format("svg");
+}
+
+
+body {
+	color: black;
+	font-family: Janson;
+}
+
+h1 {
+    white-space:nowrap;
+    letter-spacing: 3px;
+	font-size: 35px;	
+	color: #003380;	
+}
+
+h2 {
+    white-space:nowrap;
+	font-size: 30px;
+	/* text-align: center; */
+	color: black;
+}
+
+h3 {
+    white-space:nowrap;
+	font-size: 25px;
+	text-align: left;
+	color: black;
+}
+
+h4 {
+    white-space:nowrap;
+	font-size: 20px;
+	text-align: left;
+	color: black;
+}
+
+a {
+	color: #003380;
+	text-decoration: none;
+}
+
+ul {
+    line-height: 20px;
+    list-style: square;
+}
+
+li:before {
+    color: green;
+}
+
+img {
+    display: inline-block;
+}
+
+table {
+    margin: 5px 20px 5px 20px; 
+}
+
+#sitetitle {
+	white-space:nowrap;
+	font-family: Computer7;
+	font-size: 20;
+    padding: 25px 50px 15px 100px;
+}
+
+#sitetitle a {
+	
+    color: #b36b00;
+    font-family: Janson;
+    font-size: 18px;
+    margin-right: 10px;
+    margin-left: 10px;
+    border-bottom: 1px solid #003380; 
+   
+}
+
+#fullpage {
+    width: 1500px;
+    font-size: 17px;
+}
+
+#article {
+    margin: 30px 100px 0px 100px;
+    text-align: justify;    
+    line-height: 25px;
+    width: 1115px;
+}
+
+#article h2 {
+	font-size: 30px;
+	text-align: center;
+	color: #003380;
+}
+
+#article h3 {
+    font-size: 25px;
+}
+
+#article h4 {
+    font-size: 20px;
+}
+
+#article li{
+    line-height: 25px;
+}
+
+#leftarticle{
+    margin:0px 20px 0px 100px;
+    width: 700px;
+    text-align: justify;
+    line-height: 25px;
+    float: left; 
+}
+
+#leftarticle h3 {
+    color: #003380;
+}
+
+#recentarticle{
+    width: 400px;
+    float: left;
+    margin-right: 20px;
+    margin-left:30px;
+}
+
+#recentarticle h2 {
+    margin-top: 50px;
+    margin-bottom: 15px;
+    color: #003380;
+}
+
+#recentarticle li {
+    line-height: 20px;
+}
+
+#footer {
+    overflow: hidden;
+    width: 1200px;
+    border-top: 1px solid #003380;
+    margin: 100px 100px 100px 75px;
+    text-align: center;
+}

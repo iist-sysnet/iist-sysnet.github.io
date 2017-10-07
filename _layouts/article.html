@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <meta name="description" content="{{ site.title | default: site.github.repository_name }} : {{ site.description | default: site.github.project_tagline }}">
+    <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+
+{% seo %}
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <!-- <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a> --> 
+          
+          <div id="sitetitle"> 
+			<img src="images/logo.png" height="40"><font size="20" face="Computer7" color="#003380">{{ site.title }}</font><br>
+			<img width="101"><font size="3" face="Computer7" color="#003300">{{ site.description | default: site.github.project_tagline }}</font><br>
+			<a><img width="500px"></a>
+			<a href="index.html">Home</a>  /
+			<a href="people.html">People</a> /
+			<a href="projects.html">Projects</a> /
+			<a href="publications.html">Publications</a> /	      
+			<a href="facilities.html">Facilities</a> /	      
+			<a href="contact.html">Contact</a><br>
+        </div>
+        </header>
+    </div>
+	</div>
+
+    <!-- MAIN CONTENT -->
+	<div id="fullpage">
+	<div id="article">
+	{{ content }}
+	</div>
+	</div>
+	<image vspace="190">
+
+    <!-- FOOTER  -->
+    <div id="footer">
+		<br>
+		<img height="14px" src="images/copyright.png"> Copyright: Systems and Networks Lab
+    </div>
+    
+  </body>
+</html>
