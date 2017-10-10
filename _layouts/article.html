@@ -18,11 +18,11 @@
           
           <div id="sitetitle"> 
 			<img src="images/logo.png" height="40"><font size="20" face="Computer7" color="#003380">{{ site.title }}</font><br>
-			<img width="101"><font size="3" face="Computer7" color="#003300">{{ site.description | default: site.github.project_tagline }}</font><br>
+			<img width="101"><font size="4" face="Computer7" color="#003300">{{ site.description | default: site.github.project_tagline }}</font><br>
 			<a><img width="500px"></a>
 			<a href="index.html">Home</a>  /
 			<a href="people.html">People</a> /
-			<a href="projects.html">Projects</a> /
+			<a href="research.html">Research</a> /
 			<a href="publications.html">Publications</a> /	      
 			<a href="facilities.html">Facilities</a> /	      
 			<a href="contact.html">Contact</a><br>
@@ -37,12 +37,15 @@
 	{{ content }}
 	</div>
 	</div>
-	<image vspace="190">
+	<image vspace="0">
 
     <!-- FOOTER  -->
     <div id="footer">
 		<br>
-		<img height="14px" src="images/copyright.png"> Copyright: Systems and Networks Lab
+		<img height="14px" src="images/copyright.png"> Copyright: <font color="#003380">IIST Systems and Networks Lab</font><br>	
+	    <a href="http://www.onlinewebfonts.com" target="_blank"><img height="30px" src="images/owf.png"></a>
+	    <a href="https://pages.github.com/" target="_blank"><img height="30px" src="images/github.png"></a>
+	    <a href="https://jekyllrb.com/" target="_blank"><img height="32px" src="images/jekyll.png"></a>
     </div>
     
   </body>

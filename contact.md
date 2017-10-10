@@ -9,5 +9,6 @@ Department of Avionics
 Indian Institute of Space Science and Technology  
 Department of Space, Government of India  
 Thiruvananthapuram, Kerala  
-India - 695547
+India - 695547  
+<img src="images/email.png">
 
