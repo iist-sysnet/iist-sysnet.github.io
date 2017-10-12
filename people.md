@@ -5,7 +5,7 @@ layout: article
 ### Faculty
  
 
-<a href="https://www.iist.ac.in/avionics/bsmanoj">
+<a href="https://www.iist.ac.in/avionics/bsmanoj" target="_blank">
 <img style="margin-left:80px" class="img-circle" src="images/bsmanoj.png" width="100px" 
 align="left" hspace="30px" vspace="10px">  
 B. S. Manoj, Ph.D</a>  
@@ -40,11 +40,11 @@ TBA
 
 #### Post-Doctoral Fellow
 
-1. [Dharmendra Singh Yadav, Ph.D (2016)](https://scholar.google.co.in/citations?user=yGWRD0YAAAAJ&hl=en)
+1. [Dharmendra Singh Yadav, Ph.D (2016)](https://scholar.google.co.in/citations?user=yGWRD0YAAAAJ&hl=en){:target="_blank"}
 
 #### Masters Students
 
-1. [Rahul Singh (2015)](https://rahulsinghchandraul.github.io/)
+1. [Rahul Singh (2015)](https://rahulsinghchandraul.github.io/){:target="_blank"}
 
 #### Project Fellow
 

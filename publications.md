@@ -14,7 +14,7 @@ PTR, New Jersey, USA, December 2017.
 https://doi.org/10.1007/978-3-319-30913-2_19){:target="_blank"},"
 Chapter in the book titled *Internet of Things (IoT) in 5G Mobile
 Technologies*, edited by Constandinos X.  Mavromoustakis, George
-Mastorakis, and Jordi Mongay Batalla, Springer-Verlag, pp 449 -482,
+Mastorakis, and Jordi Mongay Batalla, Springer-Verlag, pp 449-482,
 April 2016.
 
 1. P. Singh, A. Chakraborty, and B. S. Manoj, "[**Complex Network Entropy**](
@@ -59,7 +59,7 @@ Journal on Wireless Communications and Networking*, vol. 2014, no. 1,
 p. 15, January 2014.
 
 
-#### International Conferences
+#### Refereed International Conferences
 
 1. G. Gupta, S. Babu, B. S. Manoj, "**Dual-mode TCP: An 
 Alternative Approach for Delay Tolerant Networks**", in 2017 *Twenty 
@@ -74,7 +74,7 @@ Systems (ANTS)*, November 2016, pp. 1-5.
 https://doi.org/10.1109/SPCOM.2016.7746675){:target="_blank"}," in 2016 *International 
 Conference on Signal Processing and Communications (SPCOM)*, June 2016, pp. 1-5.
 
-1. S. Babu and B. S. Manoj, "[**On the topology of indian and western road networks**](
+1. S. Babu and B. S. Manoj, "[**On the topology of Indian and Western road networks**](
 https://doi.org/10.1109/COMSNETS.2016.7440027){:target="_blank"}," in 2016 *8th International 
 Conference on Communication Systems and Networks (COMSNETS)*, January 2016, pp. 1-6.
 
@@ -104,15 +104,15 @@ https://doi.org/10.1109/NCC.2015.7084862){:target="_blank"}," in
 February 2015, pp. 1-5.
 
 1. R. Tyagi, T. Paul, B. S. Manoj and Thanudas B., "[**A novel HTTP botnet traffic detection method**](
-https://doi.org/10.1109/INDICON.2015.7443675){:target="_blank"}," 2015 Annual IEEE India Conference 
-(INDICON), New Delhi, 2015, pp. 1-6.
+https://doi.org/10.1109/INDICON.2015.7443675){:target="_blank"}," 2015 Annual *IEEE India Conference 
+(INDICON)*, New Delhi, 2015, pp. 1-6.
 
-1. K. P. Arun, A. Chakraborty, and B. S. Manoj, "[**Communication overhead of an openflow wireless mesh network**](
+1. K. P. Arun, A. Chakraborty, and B. S. Manoj, "[**Communication overhead of an OpenFlow wireless mesh network**](
 https://doi.org/10.1109/ANTS.2014.7057232){:target="_blank"}," in 2014 *IEEE 
 International Conference on Advanced Networks and Telecommuncations 
 Systems (ANTS)*, December 2014, pp. 1-6.
 
-1. I. Ganjoo and B. S. Manoj, "[**Opportunistic channel assignment for multihop cellular network handoff qos improvement**](
+1. I. Ganjoo and B. S. Manoj, "[**Opportunistic channel assignment for multihop cellular network handoff QoS improvement**](
 https://doi.org/10.1109/INDICON.2014.7030406){:target="_blank"}," in 2014 *Annual IEEE India Conference (INDICON)*, 
 December 2014, pp. 1-6.
 
@@ -146,15 +146,15 @@ https://doi.org/10.1109/ANTS.2012.6524239){:target="_blank"}," in 2012 *IEEE Int
 1. S. Chawla and B. S. Manoj, "[**Dynamic data compression in wireless networks**](https://doi.org/10.1109/ANTS.2011.6163657){:target="_blank"}," in 2011 Fifth *IEEE
 International Conference on Advanced Telecommunication Systems and Networks (ANTS)*, December 2011, pp. 1-3.
 
-#### National Conferences 
+#### Refereed National Conferences 
 
-1. S. Roy and B. S. Manoj, "**Interplanetary Overlay Network 
-Emulator: Design Principles and Performance Analysis**," Proceedings 
+1. S. Roy and B. S. Manoj, "**Interplanetary overlay network 
+emulator: Design principles and performance analysis**," Proceedings 
 of *ISRO Seminar on Computer and Information Technology 2015 (ISCIT 
 2015)*, Vikram Sarabhai Space Center, Trivandrum, January 2015.
 
-2. B. Thanudas, S. Rajan, S. Sreelal, and  B. S. Manoj, "**A Survey 
-on Botnet Detection Techniques**," Proceedings of *ISRO Seminar on 
+2. B. Thanudas, S. Rajan, S. Sreelal, and  B. S. Manoj, "**A survey 
+on botnet detection techniques**," Proceedings of *ISRO Seminar on 
 Computer and Information Technology 2015 (ISCIT 2015)*, Vikram 
 Sarabhai Space Center, Trivandrum, January 2015. 
 
