@@ -14,14 +14,24 @@ PTR, New Jersey, USA, December 2017.
 https://doi.org/10.1007/978-3-319-30913-2_19){:target="_blank"},"
 Chapter in the book titled *Internet of Things (IoT) in 5G Mobile
 Technologies*, edited by Constandinos X.  Mavromoustakis, George
-Mastorakis, and Jordi Mongay Batalla, Springer-Verlag, pp 449-482,
+Mastorakis, and Jordi Mongay Batalla, Springer-Verlag, pp. 449-482,
 April 2016.
 
 1. P. Singh, A. Chakraborty, and B. S. Manoj, "[**Complex Network Entropy**](
 https://www.crcpress.com/Soft-Computing-Applications-in-Sensor-Networks/Pal-Misra/p/book/9781482298758){:target="_blank"},"
 Chapter in the book titled *Soft Computing Applications in Sensor
-Networks*, edited by Prof. Sankar K. Pal and Prof. Sudip Misra, to be
-published by CRC Press (USA), 2016.
+Networks*, edited by Prof. Sankar K. Pal and Prof. Sudip Misra, CRC Press (USA), pp. 243-262, 2016.
+
+1. M. Shyam and B. S. Manoj, "[**A Comparison of Three Sophisticated Cyber Weapons**](
+https://doi.org/10.1201/b16318-19){:target="_blank"}," Chapter in the book titled *Managing Trust in 
+Cyberspace*, edited by Sabu M. Thampi, Bharat Bhargava, and Pradeep 
+K. Atrey, Chapman and Hall/CRC, pp. 387-404, 2013.
+
+1. T. B. Reddy, B. S. Manoj, and Ramesh Rao, "[**An Autonomous 
+Access Point for Cognitive Wireless Networks**]( 
+https://doi.org/10.1007/978-1-4419-6172-3_15){:target="_blank"}," in 
+*Cognitive Radio Mobile Ad Hoc Networks*, Edited by F. R. Yu (ed.), 
+Springer Science Media, pp. 373-400, 2011.
 
 #### Refereed International Journals
 
@@ -29,12 +39,12 @@ published by CRC Press (USA), 2016.
 https://doi.org/10.1016/j.physa.2017.06.018){:target="_blank"}," *Physica A: Statistical Mechanics and its 
 Applications*, vol. 487, no. Supplement C, pp. 185-195, 2017. 
 
-1. P. Singh, A. Chakraborty, and B. Manoj, "[**Link influence entropy**](
+1. P. Singh, A. Chakraborty, and B. S. Manoj, "[**Link influence entropy**](
 https://doi.org/10.1016/j.physa.2016.08.019){:target="_blank"}," *Physica A: Statistical Mechanics and its 
 Applications*, vol. 465, no. Supplement C, pp. 701-713, 2017.
 
 
-1. D. S. Yadav, A. Chakraborty, and B. Manoj, "[**A multi-backup path protection scheme for survivability in elastic optical networks**](
+1. D. S. Yadav, A. Chakraborty, and B. S. Manoj, "[**A multi-backup path protection scheme for survivability in elastic optical networks**](
 https://doi.org/10.1016/j.yofte.2016.05.003){:target="_blank"}," *Optical Fiber 
 Technology*, vol. 30, no. Supplement C, pp. 167-175, July 2016.
 
@@ -61,9 +71,14 @@ p. 15, January 2014.
 
 #### Refereed International Conferences
 
-1. G. Gupta, S. Babu, B. S. Manoj, "**Dual-mode TCP: An 
-Alternative Approach for Delay Tolerant Networks**", in 2017 *Twenty 
-Third National Conference on Communications (NCC)*, March 2017.
+1. Mithun P. V., S. Babu, and B. S. Manoj, "**On resolving network view 
+inconsistencies in SDN control plane**", Accepted in *Eleventh IEEE 
+International Conference on Advanced Networks and Telecommunications 
+Systems (ANTS)*, Bhubaneswar, India, December 2017.
+
+1. G. Gupta, S. Babu, and B. S. Manoj, "**Dual-mode TCP: An 
+alternative approach for delay tolerant networks**", Accepted in *Twenty 
+Third National Conference on Communications (NCC)*, Chennai, India, March 2017.
 
 1. R. Singh, A. Chakraborty, and B. S. Manoj, "[**On spectral analysis of node centralities**](
 https://doi.org/10.1109/ANTS.2016.7947766){:target="_blank"}," in 2016 *IEEE 
@@ -82,7 +97,7 @@ Conference on Communication Systems and Networks (COMSNETS)*, January 2016, pp. 
 https://doi.org/10.1109/COMSNETS.2016.7439934){:target="_blank"}," in 2016 *8th International Conference 
 on Communication Systems and Networks (COMSNETS)*, January 2016, pp. 1-7.
 
-1. A. Chakraborty, B. Vineeth, and B. Manoj, "[**Influence of greedy reasoning on network evolution**](https://scholar.google.co.in/scholar?oi=bibs&cluster=3000964426822107978&btnI=1&hl=en){:target="_blank"}," *Large Scale Complex Network Analysis: LSCNA2015*, p. 81, 2015.
+1. A. Chakraborty, Vineeth B. S., and B. S. Manoj, "[**Influence of greedy reasoning on network evolution**](https://scholar.google.co.in/scholar?oi=bibs&cluster=3000964426822107978&btnI=1&hl=en){:target="_blank"}," *Large Scale Complex Network Analysis: LSCNA2015*, p. 81, 2015.
 
 1. R. Raj, S. Babu, K. Benson, G. Jain, B. S. Manoj, and N. Venkatasubramanian, "[**Efficient path rescheduling of heterogeneous mobile data collectors for dynamic events in shanty town emergency response**](
 https://doi.org/10.1109/GLOCOM.2015.7417610){:target="_blank"}," in 2015 *IEEE Global 
@@ -116,7 +131,7 @@ Systems (ANTS)*, December 2014, pp. 1-6.
 https://doi.org/10.1109/INDICON.2014.7030406){:target="_blank"}," in 2014 *Annual IEEE India Conference (INDICON)*, 
 December 2014, pp. 1-6.
 
-1. T. Paul, R. Tyagi, B. S. Manoj, and T. B., "[**Fast-flux botnet detection from network traffic**](
+1. T. Paul, R. Tyagi, B. S. Manoj, and Thanudas B., "[**Fast-flux botnet detection from network traffic**](
 https://doi.org/10.1109/INDICON.2014.7030393){:target="_blank"}," in 2014 *Annual IEEE India Conference (INDICON)*, December 2014, pp. 1-6.
 
 1. G. Jain, S. Babu, R. Raj, K. Benson, B. S. Manoj, and N. Venkatasubramanian, "[**On disaster information gathering in a complex shanty town terrain**](
@@ -161,7 +176,7 @@ Sarabhai Space Center, Trivandrum, January 2015.
 #### Technical Reports
 
 1. A. Chakraborty, Vineeth B. S., and B. S. Manoj, "**A study on constrained long-ranged link addition in
-cmplex networks**," Indian Institute of Space Science and Technology, Tech. Rep., 09 2017, IIST-SNL-
+complex networks**," Indian Institute of Space Science and Technology, Tech. Rep., 09 2017, IIST-SNL-
 100-2017-09-21.
 
 1. A. Chakraborty, S. Babu, and B. S. Manoj, "**On achieving capacity-enhanced small-world networks**,"

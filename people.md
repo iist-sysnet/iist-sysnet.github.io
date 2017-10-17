@@ -8,7 +8,7 @@ layout: article
 <a href="https://www.iist.ac.in/avionics/bsmanoj" target="_blank">
 <img style="margin-left:80px" class="img-circle" src="images/bsmanoj.png" width="100px" 
 align="left" hspace="30px" vspace="10px">  
-B. S. Manoj, Ph.D</a>  
+B. S. Manoj, Ph.D.</a>  
 Professor & Head  
 Department of Avionics, IIST 
 
