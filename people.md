@@ -15,7 +15,7 @@ Department of Avionics, IIST
 
 <img height="30px">
 
-#### Ph.D Students
+#### Ph.D. Students
 
 <table>
 <tr>
@@ -29,7 +29,9 @@ Department of Avionics, IIST
 <br>
 #### Undergraduate Students
 
-TBA
+1. Alsaj A. S.
+1. T. Abhiroop
+1. V. Mohanasruthi 
 
 #### Lab Staff
 1. Divya R. S.

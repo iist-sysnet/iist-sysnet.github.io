@@ -32,6 +32,10 @@ layout: article
 <td><figure align="center"><a href="https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf" target="_blank"><img height="120px" src="images/hardware/hcsro4.jpg"><figcaption >HC-SR04<br>Ultrasonic Ranging Module</figcaption></a></figure></td>
 </tr>
 
+<tr>
+<td><figure align="center"><a href="http://www.memsic.com/userfiles/files/Datasheets/WSN/eko_starter_system.pdf" target="_blank"><img height="120px" src="images/hardware/eKo_gross.jpg"><figcaption>eKo Pro - Environmental Monitoring System</figcaption></a></figure></td>
+</tr>
+
 </table>
 
 #### Microcontroller

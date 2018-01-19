@@ -6,7 +6,7 @@ layout: article
 
 1. B. S. Manoj, Abhishek Chakraborty, and Rahul Singh, "[**Complex Networks: A Networking and Signal Processing Perspective**](
 https://complexnetworksbook.github.io/){:target="_blank"}," Prentice Hall 
-PTR, New Jersey, USA, December 2017. 
+PTR, New Jersey, USA, February, 2018. 
 
 #### Book Chapters 
 
@@ -34,6 +34,11 @@ https://doi.org/10.1007/978-1-4419-6172-3_15){:target="_blank"}," in
 Springer Science Media, pp. 373-400, 2011.
 
 #### Refereed International Journals
+
+1. D. S. Yadav, S. Babu, and B. S. Manoj, "**Quasi Path Restoration: 
+A post-failure recovery scheme over pre-allocated backup resource 
+for elastic optical networks**,"
+ Accepted for publication in *Elsevier Journal of Optical Fiber Technology*, 2018.
 
 1. R. Singh, A. Chakraborty, and B. S. Manoj, "[**GFT centrality: A new node importance measure for complex networks**](
 https://doi.org/10.1016/j.physa.2017.06.018){:target="_blank"}," *Physica A: Statistical Mechanics and its 
@@ -71,14 +76,24 @@ p. 15, January 2014.
 
 #### Refereed International Conferences
 
+1. G. Suresh, A. Chakraborty, and B. S. Manoj, "**Deterministic 
+evolution through indexed leaf node based attachment in complex 
+networks**", Accepted in *Twenty Fourth National Conference on 
+Communications (NCC)*, Hyderabad, India, 2018.
+
+1. T. Abhiroop, S. Babu, and B. S. Manoj, "**A Machine Learning Approach for Detecting DoS
+Attacks in SDN Switches**", Accepted in *Twenty Fourth National Conference on Communications (NCC)*, Hyderabad, India, 2018.
+
 1. Mithun P. V., S. Babu, and B. S. Manoj, "**On resolving network view 
 inconsistencies in SDN control plane**", Accepted in *Eleventh IEEE 
 International Conference on Advanced Networks and Telecommunications 
 Systems (ANTS)*, Bhubaneswar, India, December 2017.
 
-1. G. Gupta, S. Babu, and B. S. Manoj, "**Dual-mode TCP: An 
-alternative approach for delay tolerant networks**", Accepted in *Twenty 
-Third National Conference on Communications (NCC)*, Chennai, India, March 2017.
+1. G. Gupta, S. Babu and B. S. Manoj, "[**Dual-mode TCP: An 
+alternative approach for Delay Tolerant 
+Networks**](https://doi.org/10.1109/NCC.2017.8077040){:target="_blank"
+}," 2017 *Twenty-third National Conference on Communications (NCC)*, 
+December 2017, pp. 1-6.
 
 1. R. Singh, A. Chakraborty, and B. S. Manoj, "[**On spectral analysis of node centralities**](
 https://doi.org/10.1109/ANTS.2016.7947766){:target="_blank"}," in 2016 *IEEE 
@@ -161,6 +176,7 @@ https://doi.org/10.1109/ANTS.2012.6524239){:target="_blank"}," in 2012 *IEEE Int
 1. S. Chawla and B. S. Manoj, "[**Dynamic data compression in wireless networks**](https://doi.org/10.1109/ANTS.2011.6163657){:target="_blank"}," in 2011 Fifth *IEEE
 International Conference on Advanced Telecommunication Systems and Networks (ANTS)*, December 2011, pp. 1-3.
 
+
 #### Refereed National Conferences 
 
 1. S. Roy and B. S. Manoj, "**Interplanetary overlay network 
@@ -172,6 +188,11 @@ of *ISRO Seminar on Computer and Information Technology 2015 (ISCIT
 on botnet detection techniques**," Proceedings of *ISRO Seminar on 
 Computer and Information Technology 2015 (ISCIT 2015)*, Vikram 
 Sarabhai Space Center, Trivandrum, January 2015. 
+
+#### arXiv Preprints
+
+1. S. Babu, G. Jain, and B. S. Manoj, "[**Urban Delay Tolerant Network Simulator (UDTNSim v0. 1)**](
+http://arxiv.org/abs/1709.05645){:target="_blank"}." arXiv preprint arXiv:1709.05645 (2017).
 
 #### Technical Reports
 
