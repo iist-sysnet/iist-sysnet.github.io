@@ -38,7 +38,7 @@ Springer Science Media, pp. 373-400, 2011.
 1. D. S. Yadav, S. Babu, and B. S. Manoj, "**Quasi Path Restoration: 
 A post-failure recovery scheme over pre-allocated backup resource 
 for elastic optical networks**,"
- Accepted for publication in *Elsevier Journal of Optical Fiber Technology*, 2018.
+ Accepted for publication in *Elsevier Optical Fiber Technology*, 2018.
 
 1. R. Singh, A. Chakraborty, and B. S. Manoj, "[**GFT centrality: A new node importance measure for complex networks**](
 https://doi.org/10.1016/j.physa.2017.06.018){:target="_blank"}," *Physica A: Statistical Mechanics and its 
@@ -50,7 +50,7 @@ Applications*, vol. 465, no. Supplement C, pp. 701-713, 2017.
 
 
 1. D. S. Yadav, A. Chakraborty, and B. S. Manoj, "[**A multi-backup path protection scheme for survivability in elastic optical networks**](
-https://doi.org/10.1016/j.yofte.2016.05.003){:target="_blank"}," *Optical Fiber 
+https://doi.org/10.1016/j.yofte.2016.05.003){:target="_blank"}," *Elsevier Optical Fiber 
 Technology*, vol. 30, no. Supplement C, pp. 167-175, July 2016.
 
 1. A. Chakraborty, Vineeth B. S., and B. S. Manoj, "[**Analytical identification of anchor nodes in a small-world network**](
