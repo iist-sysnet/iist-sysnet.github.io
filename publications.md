@@ -45,13 +45,13 @@ https://doi.org/10.1016/j.physa.2017.06.018){:target="_blank"}," *Physica A: Sta
 Applications*, vol. 487, no. Supplement C, pp. 185-195, 2017. 
 
 1. P. Singh, A. Chakraborty, and B. S. Manoj, "[**Link influence entropy**](
-https://doi.org/10.1016/j.physa.2016.08.019){:target="_blank"}," *Physica A: Statistical Mechanics and its 
-Applications*, vol. 465, no. Supplement C, pp. 701-713, 2017.
+https://doi.org/10.1016/j.physa.2016.08.019){:target="_blank"}," *Elsevier Physica A: Statistical Mechanics and its 
+Applications*, vol. 465, pp. 701-713, 2017.
 
 
 1. D. S. Yadav, A. Chakraborty, and B. S. Manoj, "[**A multi-backup path protection scheme for survivability in elastic optical networks**](
 https://doi.org/10.1016/j.yofte.2016.05.003){:target="_blank"}," *Elsevier Optical Fiber 
-Technology*, vol. 30, no. Supplement C, pp. 167-175, July 2016.
+Technology*, vol. 30, pp. 167-175, July 2016.
 
 1. A. Chakraborty, Vineeth B. S., and B. S. Manoj, "[**Analytical identification of anchor nodes in a small-world network**](
 https://doi.org/10.1109/LCOMM.2016.2554117){:target="_blank"}," *IEEE Communications Letters*, vol. 20, no. 

@@ -15,6 +15,10 @@ Department of Avionics, IIST
 
 <img height="30px">
 
+#### Post-Doctoral Fellow
+
+1. Prescilla Koshy
+
 #### Ph.D. Students
 
 <table>
