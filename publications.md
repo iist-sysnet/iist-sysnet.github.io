@@ -20,18 +20,18 @@ April 2016.
 1. P. Singh, A. Chakraborty, and B. S. Manoj, "[**Complex Network Entropy**](
 https://www.crcpress.com/Soft-Computing-Applications-in-Sensor-Networks/Pal-Misra/p/book/9781482298758){:target="_blank"},"
 Chapter in the book titled *Soft Computing Applications in Sensor
-Networks*, edited by Prof. Sankar K. Pal and Prof. Sudip Misra, CRC Press (USA), pp. 243-262, 2016.
+Networks*, edited by Prof. Sankar K. Pal and Prof. Sudip Misra, CRC Press (USA), pp. 243-263, August 2016.
 
 1. M. Shyam and B. S. Manoj, "[**A Comparison of Three Sophisticated Cyber Weapons**](
 https://doi.org/10.1201/b16318-19){:target="_blank"}," Chapter in the book titled *Managing Trust in 
 Cyberspace*, edited by Sabu M. Thampi, Bharat Bhargava, and Pradeep 
-K. Atrey, Chapman and Hall/CRC, pp. 387-404, 2013.
+K. Atrey, Chapman and Hall/CRC, pp. 387-404, December 2013.
 
 1. T. B. Reddy, B. S. Manoj, and Ramesh Rao, "[**An Autonomous 
 Access Point for Cognitive Wireless Networks**]( 
 https://doi.org/10.1007/978-1-4419-6172-3_15){:target="_blank"}," in 
 *Cognitive Radio Mobile Ad Hoc Networks*, Edited by F. R. Yu (ed.), 
-Springer Science Media, pp. 373-400, 2011.
+Springer Science Media, pp. 373-400, July 2011.
 
 #### Refereed International Journals
 
@@ -41,11 +41,11 @@ pre-allocated backup resource for elastic optical networks**](https://doi.org/10
 
 1. R. Singh, A. Chakraborty, and B. S. Manoj, "[**GFT centrality: A new node importance measure for complex networks**](
 https://doi.org/10.1016/j.physa.2017.06.018){:target="_blank"}," *Physica A: Statistical Mechanics and its 
-Applications*, vol. 487, no. Supplement C, pp. 185-195, 2017. 
+Applications*, vol. 487, pp. 185-195, December 2017. 
 
 1. P. Singh, A. Chakraborty, and B. S. Manoj, "[**Link influence entropy**](
 https://doi.org/10.1016/j.physa.2016.08.019){:target="_blank"}," *Elsevier Physica A: Statistical Mechanics and its 
-Applications*, vol. 465, pp. 701-713, 2017.
+Applications*, vol. 465, pp. 701-713, January 2017.
 
 
 1. D. S. Yadav, A. Chakraborty, and B. S. Manoj, "[**A multi-backup path protection scheme for survivability in elastic optical networks**](

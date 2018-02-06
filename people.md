@@ -8,7 +8,7 @@ layout: article
 <a href="https://www.iist.ac.in/avionics/bsmanoj" target="_blank">
 <img style="margin-left:80px" class="img-circle" src="images/bsmanoj.png" width="100px" 
 align="left" hspace="30px" vspace="10px">  
-B. S. Manoj, Ph.D.</a>  
+B. S. Manoj, PhD</a>  
 Professor & Head  
 Department of Avionics, IIST 
 
@@ -17,19 +17,18 @@ Department of Avionics, IIST
 
 #### Post-Doctoral Fellow
 
-1. Prescilla Koshy
+1. Prescilla Koshy, PhD
 <br><br>
 
 #### Ph.D. Students
 
 <table>
 <tr>
-<td><figure align="center"><a href="https://chakrabortyabhishek.github.io/" target="_blank"><img width="100px"  class="img-circle"  src="images/abhishek.png"><figcaption>Abhishek Chakraborty</figcaption></a></figure></td>
-<td><figure align="center"><a href="https://4sarathbabu.github.io/" target="_blank"><img width="118px"  class="img-circle"  src="images/sarathbabu.png"><figcaption>Sarath Babu</figcaption></a></figure></td>
+<td><figure align="center"><a href="https://chakrabortyabhishek.github.io/" target="_blank"><img width="88px"  class="img-circle"  src="images/abhishek.png"><figcaption>Abhishek Chakraborty</figcaption></a>(Submitted Thesis)</figure><br></td>
+<td><figure align="center"><a href="https://4sarathbabu.github.io/" target="_blank"><img width="105px"  class="img-circle"  src="images/sarathbabu.png"><figcaption>Sarath Babu</figcaption></a>(Ongoing)</figure></td>
+<td><figure align="center"><img width="95px"  class="img-circle"  src="images/bhogeswar.png"><figcaption>Bhogeswara Rao Angara</figcaption>(Ongoing)</figure></td>
 </tr>
 </table>
-
-
 
 <br>
 #### Undergraduate Students
@@ -47,7 +46,7 @@ Department of Avionics, IIST
 
 #### Post-Doctoral Fellow
 
-1. [Dharmendra Singh Yadav, Ph.D (2016)](https://scholar.google.co.in/citations?user=yGWRD0YAAAAJ&hl=en){:target="_blank"}
+1. [Dharmendra Singh Yadav, PhD (2016)](https://scholar.google.co.in/citations?user=yGWRD0YAAAAJ&hl=en){:target="_blank"}
 
 #### Masters Students
 
