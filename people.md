@@ -26,7 +26,7 @@ Department of Avionics, IIST
 <tr>
 <td><figure align="center"><a href="https://chakrabortyabhishek.github.io/" target="_blank"><img width="88px"  class="img-circle"  src="images/abhishek.png"><figcaption>Abhishek Chakraborty</figcaption></a>(Submitted Thesis)</figure><br></td>
 <td><figure align="center"><a href="https://4sarathbabu.github.io/" target="_blank"><img width="105px"  class="img-circle"  src="images/sarathbabu.png"><figcaption>Sarath Babu</figcaption></a>(Ongoing)</figure></td>
-<td><figure align="center"><img width="95px"  class="img-circle"  src="images/bhogeswar.png"><figcaption>Bhogeswara Rao Angara</figcaption>(Ongoing)</figure></td>
+<td><figure align="center"><img width="100px"  class="img-circle"  src="images/bhogeswar.png"><figcaption>Bhogeswara Rao Angara</figcaption>(Ongoing)</figure></td>
 </tr>
 </table>
 
