@@ -17,8 +17,12 @@ Department of Avionics, IIST
 
 #### Post-Doctoral Fellow
 
-1. Prescilla Koshy, PhD
-<br><br>
+<table>
+<tr>
+<td><figure align="center"><a><img width="100"  class="img-circle"  src="images/prescilla.jpg"><figcaption>Prescilla Koshy, PhD</figcaption></a></figure><br></td>
+</tr>
+</table>
+
 
 #### Ph.D. Students
 
@@ -30,7 +34,6 @@ Department of Avionics, IIST
 </tr>
 </table>
 
-<br>
 #### Undergraduate Students
 
 1. Alsaj A. S.
