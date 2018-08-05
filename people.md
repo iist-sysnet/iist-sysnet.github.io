@@ -28,17 +28,21 @@ Department of Avionics, IIST
 
 <table>
 <tr>
-<td><figure align="center"><a href="https://chakrabortyabhishek.github.io/" target="_blank"><img width="88px"  class="img-circle"  src="images/abhishek.png"><figcaption>Abhishek Chakraborty</figcaption></a>(Submitted Thesis)</figure><br></td>
+<td><figure align="center"><a href="https://chakrabortyabhishek.github.io/" target="_blank"><img width="88px"  class="img-circle"  src="images/abhishek.png"><figcaption>Abhishek Chakraborty</figcaption></a>(Completed)</figure><br></td>
 <td><figure align="center"><a href="https://4sarathbabu.github.io/" target="_blank"><img width="105px"  class="img-circle"  src="images/sarathbabu.png"><figcaption>Sarath Babu</figcaption></a>(Ongoing)</figure></td>
-<td><figure align="center"><img width="100px"  class="img-circle"  src="images/bhogeswar.png"><figcaption>Bhogeswara Rao Angara</figcaption>(Ongoing)</figure></td>
+<td><figure align="center"><img width="100px"  class="img-circle"  src="images/avinash.png"><figcaption>Chalumuri Avinash</figcaption>(Ongoing)</figure></td>
+<td><figure align="center"><a href="https://www.linkedin.com/in/debabrata-dalai-a88b6486"><img width="88px"  class="img-circle"  src="images/debabrata.png"><figcaption>Debabrata Dalai</figcaption></a>(Ongoing)</figure></td>
 </tr>
 </table>
 
 #### Undergraduate Students
+1. Ansuman Palo
+1. Karumuru Venkata Niranjan Sai
+1. Pratabidya Panda
+1. Reuben Chacko Thomas
+1. S Sai Avinash
+1. Suraj R
 
-1. Alsaj A. S.
-1. T. Abhiroop
-1. V. Mohanasruthi 
 
 #### Lab Staff
 1. Divya R. S.
@@ -61,15 +65,24 @@ Department of Avionics, IIST
 
 #### Undergraduate Students 
 
-+ **2017**
++ **2017 -- 2018**
+  1. Alsaj A. S.
+  2. T. Abhiroop
+  3. V. Mohanasruthi 
+  4. Gautham Suresh
+  5. Kolli Aravind
+  6. Sunkara Jaya Chand
+
++ **2016 -- 2017**
   1. Anand Narayanan
   2. Ishika Ghara
   3. Keshav Dayal
   4. Mithun P. V.
   5. Priyanka Rathod 
   4. Yuvaraj Sinh Surendrakumar
+  5. Y. Naga Rahul
 
-+ **2016**
++ **2015 -- 2016**
   1. Ajay Salas
   2. Amal Krishna
   3. Anuj Sarode Ghanshyambhai
@@ -77,9 +90,11 @@ Department of Avionics, IIST
   5. Devi Reddy Pramod Reddy
   6. Palash Joshi
   7. Prakhar Gupta  
-  8. Saurav Maji  
+  8. Saurav Maji
+  9. Devireddy Pramod Reddy
   
-+ **2015**
+  
++ **2014 -- 2015**
   1. Abhishek Bhaumick
   2. Anugolu Purnesh Sai Ram
   3. Deepak Kumar Khatri
@@ -90,8 +105,11 @@ Department of Avionics, IIST
   8. Somarouth Sai Srinivas
   9. Vinay Gajmoti 
   10. Yogesh Parth  
+  11. Pamidiparthi Ravi Teja Naidu
+  12. Sourajit Debnath
+ 
   
-+ **2014**
++ **2013 -- 2014**
   1. Arun K. P.
   2. Gaurav Jain 
   3. Ishita Ganjoo  
@@ -99,14 +117,14 @@ Department of Avionics, IIST
   5. Rohit Tyagi 
   6. Tuhin Paul
   
-+ **2013**
++ **2012 -- 2013**
   1. Aritra Sarkar
   2. Muna Kumar Singh
   3. Shyam Vinay 
   4. Siddharth Srivastava 
   5. Sukirna Roy   
    
-+ **2012**
++ **2011 -- 2012**
   1. Ajith Kanale
   2. Anusha Singamaneni
   3. Karan Lal
@@ -116,15 +134,26 @@ Department of Avionics, IIST
   7. Siddharth Jha
 
 #### Summer Internship Alumni (non-IIST)
++ **2018**
+  1. Aditya Halder, NIT Durgapur
+  2. Akshay M, TKM Kollam
+  3. Archa Gopan, TKM Kollam (M.Tech)
+  4. Arnab Haldar, Kalyani Government Engineering College, West Bengal
+  5. Ayushi Pandey, KIIT Bhubaneswar
+  6. Ganesha Vedarajan Sivagurunathan, NIT Tiruchirappalli
+  7. Minu Thomas, Government Engineering College, Barton Hill
+  8. Sai Naveen Devarapalli, NIT Tiruchirappalli
+  9. Sruthi S, TKM Kollam (M.Tech)
+  
 + **2017**
   1. Alfia M, TKM Kollam (M.Tech)
   2. Arya Ajay, TKM Kollam (M.Tech)
   3. Indukathya, JNTUA
   4. Malu Mohan, TKM Kollam (M.Tech)
   5. Manisha Pedhaguntlpalli, JNTUA
-  6. Sandeepan Dash, NIT Trichi  
+  6. Sandeepan Dash, NIT Tiruchirappalli
 + **2015**
-  1. Nikhil M. S., NIT Trichi
+  1. Nikhil M. S., NIT Tiruchirappalli
   2. Nisha Agrawal, IIT Jodhpur
 + **2014**
   1. Sindhuja Kasam, NIT Warangal
