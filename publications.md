@@ -37,7 +37,7 @@ Springer Science Media, pp. 373-400, July 2011.
 
 #### Refereed International Journals
 
-11.Sarath Babu, P. V. Mithun, and B. S. Manoj, "[**A novel framework for
+11. Sarath Babu, P. V. Mithun, and B. S. Manoj, "[**A novel framework for
    resource discovery and self-configuration in software defined wireless
    mesh networks**](https://doi.org/10.1109/TNSM.2019.2922107){:target="_blank"}," Accepted in
    *IEEE Transactions on Network and Service Management*, June 2019.
