@@ -48,12 +48,12 @@ layout: article
 ## Software Tools
 
 + **Operating Systems**
-	- <a href="http://releases.ubuntu.com/14.04/" target="_blank">Ubuntu 14.04 LTS</a>, <a href="http://releases.ubuntu.com/16.04/" target="_blank">Ubuntu 16.04 LTS</a> for Desktops and Laptops
-	- <a href="https://www.raspberrypi.org/downloads/raspbian/" target="_blank">Raspbian Jessie</a> for Raspberry Pi boards
-	- <a href="http://mirror.voyage.hk/download/ISO/voyage-0.9.2.iso" target="_blank">Voyage Linux 0.9.2</a> for Alix.3d3 boards
-	- <a href="https://wiki.linaro.org/Boards/IFC6410" target="_blank">Linaro Snapdragon 600 Linux</a> for IFC 6410 boards
-	- <a href="https://github.com/tinyos/" target="_blank">TinyOS</a> for sensor motes
-	- <a href="https://osrg.github.io/ryu/" target="_blank">Ryu SDN Framework</a> for SDN network operating system
+	- [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/), [Ubuntu 16.04 LTS](http://releases.ubuntu.com/16.04/), and [Ubuntu 18.04 LTS](http://releases.ubuntu.com/18.04/) for Desktops and Laptops
+	- [Raspbian Jessie](https://www.raspberrypi.org/downloads/raspbian/) for Raspberry Pi boards
+	- [Voyage Linux 0.9.2](http://mirror.voyage.hk/download/ISO/voyage-0.9.2.iso) for Alix.3d3 boards
+	- [Linaro Snapdragon 600 Linux](https://wiki.linaro.org/Boards/IFC6410) for IFC 6410 boards
+	- [TinyOS](https://github.com/tinyos/) for sensor motes
+	- [Ryu SDN Framework](https://osrg.github.io/ryu/) for SDN network operating system
 	
 + **Simulators**
 	- <a href="https://www.isi.edu/nsnam/ns/" target="_blank">ns-2</a>, <a href="https://www.nsnam.org/" target="_blank">ns-3</a>
