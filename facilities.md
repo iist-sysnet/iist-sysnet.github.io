@@ -59,6 +59,8 @@ layout: article
 	- <a href="https://www.isi.edu/nsnam/ns/" target="_blank">ns-2</a>, <a href="https://www.nsnam.org/" target="_blank">ns-3</a>
 	- <a href="https://www.netlab.tkk.fi/tutkimus/dtn/theone/" target="_blank">Opportunistic Network Environment (ONE)</a> for DTNs
 	- <a href="https://github.com/iist-sysnet/UDTNSim" target="_blank">Urban DTN Simulator (UDTNSim)</a> for DTNs
+	- [NetSim](https://www.tetcos.com/netsim-pro.html)
+	- [OMNeT++](https://omnetpp.org/)
 	
 + **Software Tools**
 	- <a href="http://openvswitch.org/" target="_blank">Open vSwitch</a> for OpenFlow switches for SDN
