@@ -28,20 +28,15 @@ Department of Avionics, IIST
 
 <table>
 <tr>
-<td><figure align="center"><a href="https://chakrabortyabhishek.github.io/" target="_blank"><img width="88px"  class="img-circle"  src="images/abhishek.png"><figcaption>Abhishek Chakraborty</figcaption></a>(Completed)</figure><br></td>
-<td><figure align="center"><a href="https://4sarathbabu.github.io/" target="_blank"><img width="105px"  class="img-circle"  src="images/sarathbabu.png"><figcaption>Sarath Babu</figcaption></a>(Ongoing)</figure></td>
+<td><figure align="center"><a href="https://4sarathbabu.github.io/" target="_blank"><img width="105px"  class="img-circle"  src="images/sarath.jpg"><figcaption>Sarath Babu</figcaption></a>(Ongoing)</figure></td>
 <td><figure align="center"><img width="100px"  class="img-circle"  src="images/avinash.png"><figcaption>Chalumuri Avinash</figcaption>(Ongoing)</figure></td>
 <td><figure align="center"><a href="https://www.linkedin.com/in/debabrata-dalai-a88b6486"><img width="88px"  class="img-circle"  src="images/debabrata.png"><figcaption>Debabrata Dalai</figcaption></a>(Ongoing)</figure></td>
 </tr>
 </table>
 
 #### Undergraduate Students
-1. Ansuman Palo
-1. Karumuru Venkata Niranjan Sai
-1. Pratabidya Panda
-1. Reuben Chacko Thomas
-1. S Sai Avinash
-1. Suraj R
+1. Grandhi Harshitha 
+2. Ashutosh Saini
 
 
 #### Lab Staff
@@ -55,15 +50,31 @@ Department of Avionics, IIST
 
 1. [Dharmendra Singh Yadav, PhD (2016)](https://scholar.google.co.in/citations?user=yGWRD0YAAAAJ&hl=en){:target="_blank"}
 
+#### PhD Students
+
+1. [Abhishek Chakraborty](https://chakrabortyabhishek.github.io/)(2018)
+
 #### Masters Students
 
 1. [Rahul Singh (2015)](https://rahulsinghchandraul.github.io/){:target="_blank"}
 
+
 #### Project Fellow
 
+3. [Abhishek Chakraborty](https://chakrabortyabhishek.github.io/)(2018)
+2. [Rahul Singh (2015)](https://rahulsinghchandraul.github.io/){:target="_blank"}
 1. Sheena S. Rajan (2015)
 
 #### Undergraduate Students 
+
++ **2018 -- 2019**
+  1. Ansuman Palo
+  2. Kalpita Mandal
+  3. Karumuru Venkata Niranjan Sai
+  4. Pratabidya Panda
+  5. Reuben Chacko Thomas
+  6. S. Sai Avinash
+  7. Suraj R
 
 + **2017 -- 2018**
   1. Alsaj A. S.
@@ -134,6 +145,14 @@ Department of Avionics, IIST
   7. Siddharth Jha
 
 #### Summer Internship Alumni (non-IIST)
+
++ **2019**
+  1. Anantha Krishnan A. S., SRM Institute of Science and Technology, Chennai
+  2. Indranil Ghosh, Jadavpur University, Kolkata
+  3. Nicole Mary B. Jacob, Mar Baselious College of Engineering and Technology, Trivandrum
+  4. Pranav Moorthy, SSN College of Engineering, Chennai
+  5. Shaifali Jindal, Indira Gandhi Delhi Technical University for Women, New Delhi
+
 + **2018**
   1. Aditya Halder, NIT Durgapur
   2. Akshay M, TKM Kollam
