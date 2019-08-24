@@ -28,7 +28,7 @@ Department of Avionics, IIST
 
 <table>
 <tr>
-<td><figure align="center"><a href="https://4sarathbabu.github.io/" target="_blank"><img width="100px" class="img-circle"  src="images/sarath.jpg"><figcaption>Sarath Babu</figcaption></a>(Ongoing)</figure></td>
+<td><figure align="center"><a href="https://4sarathbabu.github.io/" target="_blank"><img width="100px" height="100px" class="img-circle"  src="images/sarath.jpg"><figcaption>Sarath Babu</figcaption></a>(Ongoing)</figure></td>
 <td><figure align="center"><img width="100px"  class="img-circle"  src="images/avinash.png"><figcaption>Chalumuri Avinash</figcaption>(Ongoing)</figure></td>
 <td><figure align="center"><a href="https://www.linkedin.com/in/debabrata-dalai-a88b6486"><img width="88px"  class="img-circle"  src="images/debabrata.png"><figcaption>Debabrata Dalai</figcaption></a>(Ongoing)</figure></td>
 </tr>
