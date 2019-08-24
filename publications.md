@@ -90,7 +90,7 @@ p. 15, January 2014.
 
 27. V. M. Sruthi, B. Thanudas, S. Sreelal, A. Chakraborty and B. S. Manoj, "[**ACTM: API Call Transition Matrix-based Malware Detection Method**](https://doi.org/10.1109/ANTS.2018.8710081){:target="_blank"}," 2018 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), Indore, India, 2018, pp. 1-6.
 
-26. T. Abhiroop, **Sarath Babu**, and B. S. Manoj, "[**A machine learning
+26. T. Abhiroop, Sarath Babu, and B. S. Manoj, "[**A machine learning
    approach for detecting DoS attacks in SDN
    switches**](https://doi.org/10.1109/NCC.2018.8600196){:target="_blank"}," 2018 Twenty
    Fourth *National Conference on Communications (NCC)*, Hyderabad, February
@@ -100,13 +100,13 @@ p. 15, January 2014.
    Fourth *National Conference on Communications (NCC)*, Hyderabad, February
    2018, pp. 1-6.
 
-24. T. Abhiroop, **Sarath Babu**, and B. S. Manoj, "[**A machine learning
+24. T. Abhiroop, Sarath Babu, and B. S. Manoj, "[**A machine learning
    approach for detecting DoS attacks in SDN
    switches**](https://doi.org/10.1109/NCC.2018.8600196){:target="_blank"}," 2018 Twenty
    Fourth *National Conference on Communications (NCC)*, Hyderabad, February
    2018, pp. 1-6.
    
-23. P. V. Mithun, **Sarath Babu**, and B. S. Manoj, "[**On resolving network
+23. P. V. Mithun, Sarath Babu, and B. S. Manoj, "[**On resolving network
    view inconsistencies in SDN control
    plane**](https://doi.org/10.1109/ANTS.2017.8384108){:target="_blank"}," 2017 *IEEE
    International Conference on Advanced Networks and Telecommunications
