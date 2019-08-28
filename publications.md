@@ -84,7 +84,9 @@ p. 15, January 2014.
 
 #### Refereed International Conferences
 
-29. Sarath Babu, Priyanka Rathod, and B. S. Manoj, "**On Optimizing Information Gathering in Shanty Town Emergency Response**, Accepted in IEEE TENCON 2019.
+30. K. V. Niranjan Sai, Thanudas B, Sreelal S, Abhishek Chakraborty, and Manoj B. S., "**MACA-I: A Malware Detection Technique using Memory Management API Call Mining**", Accepted in *IEEE TENCON, 2019*.
+
+29. Sarath Babu, Priyanka Rathod, and B. S. Manoj, "**On Optimizing Information Gathering in Shanty Town Emergency Response**", Accepted in *IEEE TENCON, 2019*.
 
 28. A. Chakraborty, B. S. Vineeth and B. S. Manoj, "[**On the Evolution of Finite-Sized Complex Networks with Constrained Link Addition**](https://doi.org/10.1109/ANTS.2018.8710101){:target="_blank"}," 2018 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), Indore, India, 2018, pp. 1-6.
 
