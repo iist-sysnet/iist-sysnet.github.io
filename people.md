@@ -52,7 +52,7 @@ Department of Avionics, IIST
 
 #### PhD Students
 
-1. [Abhishek Chakraborty](https://chakrabortyabhishek.github.io/)(2018)
+1. [Abhishek Chakraborty](https://chakrabortyabhishek.github.io/) (2018)
 
 #### Masters Students
 
@@ -61,7 +61,7 @@ Department of Avionics, IIST
 
 #### Project Fellow
 
-3. [Abhishek Chakraborty](https://chakrabortyabhishek.github.io/)(2018)
+3. [Abhishek Chakraborty](https://chakrabortyabhishek.github.io/) (2018)
 2. [Rahul Singh (2016)](https://rahulsinghchandraul.github.io/){:target="_blank"}
 1. Sheena S. Rajan (2015)
 
@@ -156,19 +156,19 @@ Department of Avionics, IIST
 + **2018**
   1. Aditya Halder, NIT Durgapur
   2. Akshay M, TKM Kollam
-  3. Archa Gopan, TKM Kollam (M.Tech)
+  3. Archa Gopan, TKM Kollam (M.Tech.)
   4. Arnab Haldar, Kalyani Government Engineering College, West Bengal
   5. Ayushi Pandey, KIIT Bhubaneswar
   6. Ganesha Vedarajan Sivagurunathan, NIT Tiruchirappalli
   7. Minu Thomas, Government Engineering College, Barton Hill
   8. Sai Naveen Devarapalli, NIT Tiruchirappalli
-  9. Sruthi S, TKM Kollam (M.Tech)
+  9. Sruthi S, TKM Kollam (M.Tech.)
   
 + **2017**
-  1. Alfia M, TKM Kollam (M.Tech)
-  2. Arya Ajay, TKM Kollam (M.Tech)
+  1. Alfia M, TKM Kollam (M.Tech.)
+  2. Arya Ajay, TKM Kollam (M.Tech.)
   3. Indukathya, JNTUA
-  4. Malu Mohan, TKM Kollam (M.Tech)
+  4. Malu Mohan, TKM Kollam (M.Tech.)
   5. Manisha Pedhaguntlpalli, JNTUA
   6. Sandeepan Dash, NIT Tiruchirappalli
 + **2015**
