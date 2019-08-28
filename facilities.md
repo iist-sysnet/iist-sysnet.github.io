@@ -48,33 +48,33 @@ layout: article
 ## Software Tools
 
 + **Operating Systems**
-	- [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/), [Ubuntu 16.04 LTS](http://releases.ubuntu.com/16.04/), and [Ubuntu 18.04 LTS](http://releases.ubuntu.com/18.04/) for Desktops and Laptops
-	- [Raspbian Jessie](https://www.raspberrypi.org/downloads/raspbian/) for Raspberry Pi boards
-	- [Voyage Linux 0.9.2](http://mirror.voyage.hk/download/ISO/voyage-0.9.2.iso) for Alix.3d3 boards
-	- [Linaro Snapdragon 600 Linux](https://wiki.linaro.org/Boards/IFC6410) for IFC 6410 boards
-	- [TinyOS](https://github.com/tinyos/) for sensor motes
-	- [Ryu SDN Framework](https://osrg.github.io/ryu/) for SDN network operating system
+	- [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/){:target="_blank"}, [Ubuntu 16.04 LTS](http://releases.ubuntu.com/16.04/), and [Ubuntu 18.04 LTS](http://releases.ubuntu.com/18.04/){:target="_blank"} for Desktops and Laptops
+	- [Raspbian Jessie](https://www.raspberrypi.org/downloads/raspbian/){:target="_blank"} for Raspberry Pi boards
+	- [Voyage Linux 0.9.2](http://mirror.voyage.hk/download/ISO/voyage-0.9.2.iso){:target="_blank"} for Alix.3d3 boards
+	- [Linaro Snapdragon 600 Linux](https://wiki.linaro.org/Boards/IFC6410){:target="_blank"} for IFC 6410 boards
+	- [TinyOS](https://github.com/tinyos/){:target="_blank"} for sensor motes
+	- [Ryu SDN Framework](https://osrg.github.io/ryu/){:target="_blank"} for SDN network operating system
 	
 + **Simulators**
-	- <a href="https://www.isi.edu/nsnam/ns/" target="_blank">ns-2</a>, <a href="https://www.nsnam.org/" target="_blank">ns-3</a>
-	- <a href="https://www.netlab.tkk.fi/tutkimus/dtn/theone/" target="_blank">Opportunistic Network Environment (ONE)</a> for DTNs
-	- <a href="https://github.com/iist-sysnet/UDTNSim" target="_blank">Urban DTN Simulator (UDTNSim)</a> for DTNs
+	- [ns-2](https://www.isi.edu/nsnam/ns/){:target="_blank"}
+	- [Opportunistic Network Environment (ONE)](https://www.netlab.tkk.fi/tutkimus/dtn/theone/){:target="_blank"} for DTNs
+	- [Urban DTN Simulator (UDTNSim)](https://github.com/iist-sysnet/UDTNSim){:target="_blank"} for DTNs
 	- [NetSim](https://www.tetcos.com/netsim-pro.html)
 	- [OMNeT++](https://omnetpp.org/)
 	
 + **Software Tools**
-	- <a href="http://openvswitch.org/" target="_blank">Open vSwitch</a> for OpenFlow switches for SDN
-	- <a href="https://www.wireshark.org/" target="_blank">Wireshark</a>, <a href="http://www.tcpdump.org/" target="_blank">tcpdump</a>, and <a href="https://github.com/KimiNewt/pyshark" target="_blank">pyshark</a> for network analysis
+	- [Open vSwitch](http://openvswitch.org/){:target="_blank"} for OpenFlow switches for SDN
+	- [Wireshark](https://www.wireshark.org/){:target="_blank"}, [tcpdump](http://www.tcpdump.org/){:target="_blank"}, [pyshark](https://github.com/KimiNewt/pyshark){:target="_blank"}, and [Scapy](https://scapy.net){:target="_blank"}
 	
 + **Computational Tools**
-	- <a href="https://www.mathworks.com/products/matlab.html" target="_blank">MATLAB</a>
-	- <a href="https://networkx.github.io/" target="_blank">NetworkX</a>, <a href="http://igraph.org/python/" target="_blank">igraph</a> (For complex 	network analysis)
-	- <a href="http://www.numpy.org/" target="_blank">Numpy</a>
-	
+	- [MATLAB](https://www.mathworks.com/products/matlab.html){:target="_blank"}
+	- [NetworkX](https://networkx.github.io/){:target="_blank"} and [igraph](http://igraph.org/python/){:target="_blank"} (For complex network analysis)
+	- [NumPy](https://numpy.org){:target="_blank"} and [SciPy](https://www.scipy.org){:target="_blank"}
+
 + **Programming Languages**
-	- C
-	- <a href="https://www.python.org/" target="_blank">Python</a>
-	- <a href="http://nescc.sourceforge.net/" target="_blank">nesC</a> (For sensor programming)
+	- C, C++
+	- [Python](https://www.python.org){:target="_blank"}
+	- [nesC](http://nescc.sourceforge.net/){:target="_blank"} (For sensor programming)
 	- Bash Shell Scripting
 	
 
