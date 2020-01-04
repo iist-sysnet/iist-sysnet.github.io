@@ -9,7 +9,7 @@ layout: article
 <img style="margin-left:80px" class="img-circle" src="images/bsmanoj.png" width="100px" 
 align="left" hspace="30px" vspace="10px">  
 B. S. Manoj, PhD</a>  
-Professor & Head  
+Professor  
 Department of Avionics, IIST 
 
 
@@ -36,7 +36,7 @@ Department of Avionics, IIST
 
 #### Undergraduate Students
 1. Grandhi Harshitha 
-2. Ashutosh Saini
+
 
 
 #### Lab Staff
@@ -48,7 +48,7 @@ Department of Avionics, IIST
 
 #### Post-Doctoral Fellow
 
-1. [Dharmendra Singh Yadav, PhD (2016)](https://scholar.google.co.in/citations?user=yGWRD0YAAAAJ&hl=en){:target="_blank"}
+1. [Dharmendra Singh Yadav, PhD](https://scholar.google.co.in/citations?user=yGWRD0YAAAAJ&hl=en) (2016)
 
 #### PhD Students
 
@@ -59,13 +59,16 @@ Department of Avionics, IIST
 1. [Rahul Singh (2015)](https://rahulsinghchandraul.github.io/){:target="_blank"}
 
 
-#### Project Fellow
+#### Project Fellows
 
 3. [Abhishek Chakraborty](https://chakrabortyabhishek.github.io/) (2018)
 2. [Rahul Singh (2016)](https://rahulsinghchandraul.github.io/){:target="_blank"}
 1. Sheena S. Rajan (2015)
 
 #### Undergraduate Students 
+
++ **2019 -- 2020**
+  1. Ashutosh Saini
 
 + **2018 -- 2019**
   1. Ansuman Palo
