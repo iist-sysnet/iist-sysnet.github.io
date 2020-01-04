@@ -37,6 +37,10 @@ Springer Science Media, pp. 373-400, July 2011.
 
 #### Refereed International Journals
 
+13. Prescilla K., S. Babu, and B. S. Manoj, "[**Sliding Window Blockchain Architecture for Internet of Things**], Accepted for publication in *IEEE Internet of Things Journal*, 2019.
+
+12. Sai Avinash Sattiraju, Abhishek Chakraborty, C. S. Shaijumon, and B. S. Manoj, "[**Corporate Linkages and Financial Performance: A Complex Network Analysis of Indian Firms**]", Accepted for publication in *IEEE Transactions on Computational Social Systems*, 2019.
+
 11. S. Babu, P. V. Mithun, and B. S. Manoj, "[**A novel framework for
    resource discovery and self-configuration in software defined wireless
    mesh networks**](https://doi.org/10.1109/TNSM.2019.2922107){:target="_blank"}," Accepted in
@@ -84,23 +88,21 @@ p. 15, January 2014.
 
 #### Refereed International Conferences
 
-30. K. V. Niranjan Sai, Thanudas B, Sreelal S, Abhishek Chakraborty, and Manoj B. S., "**MACA-I: A Malware Detection Technique using Memory Management API Call Mining**", Accepted in *IEEE TENCON, 2019*.
+32. M. Gudiseva, A. Chakraborty, and B. S. Manoj, "[**Social network aware dynamic edge server placement for next-generation cellular networks**]," Accepted in *Proc. COMSNETS 2020*, January 2020.
 
-29. S. Babu, Priyanka Rathod, and B. S. Manoj, "**On Optimizing Information Gathering in Shanty Town Emergency Response**", Accepted in *IEEE TENCON, 2019*.
+31. K. V. Niranjan Sai, Thanudas B, Sreelal S, Abhishek Chakraborty, and Manoj B. S., "[**MACA-I: A Malware Detection Technique using Memory Management API Call Mining**](https://doi.org/10.1109/TENCON.2019.8929250)", *TENCON 2019 - 2019 IEEE Region 10 Conference (TENCON)*, Kochi, India, 2019, pp. 527-532.
+
+30. Suraj R., S. Babu, D. Dalai, and B. S. Manoj, "[**DebriNet: An opportunistic software defined networking framework over PSLV debris**]", Accepted in *IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS)*, 16-19 December 2019, Goa, India.
+
+29. S. Babu, Priyanka Rathod, and B. S. Manoj, "[**On Optimizing Information Gathering in Shanty Town Emergency Response**](https://doi.org/10.1109/TENCON.2019.8929340)", *TENCON 2019 - 2019 IEEE Region 10 Conference (TENCON)*, Kochi, India, 2019, pp. 129-134.
 
 28. A. Chakraborty, B. S. Vineeth and B. S. Manoj, "[**On the Evolution of Finite-Sized Complex Networks with Constrained Link Addition**](https://doi.org/10.1109/ANTS.2018.8710101){:target="_blank"}," 2018 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), Indore, India, 2018, pp. 1-6.
 
 27. V. M. Sruthi, B. Thanudas, S. Sreelal, A. Chakraborty and B. S. Manoj, "[**ACTM: API Call Transition Matrix-based Malware Detection Method**](https://doi.org/10.1109/ANTS.2018.8710081){:target="_blank"}," 2018 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), Indore, India, 2018, pp. 1-6.
 
-26. T. Abhiroop, S. Babu, and B. S. Manoj, "[**A machine learning
-   approach for detecting DoS attacks in SDN
-   switches**](https://doi.org/10.1109/NCC.2018.8600196){:target="_blank"}," 2018 Twenty
-   Fourth *National Conference on Communications (NCC)*, Hyderabad, February
-   2018, pp. 1-6.
+26. T. Abhiroop, S. Babu, and B. S. Manoj, "[**A machine learning approach for detecting DoS attacks in SDN switches**](https://doi.org/10.1109/NCC.2018.8600196){:target="_blank"}," 2018 Twenty Fourth *National Conference on Communications (NCC)*, Hyderabad, February 2018, pp. 1-6.
 
-25. G. Suresh, A. Chakraborty, and B. S. Manoj, "[**Deterministic evolution through indexed leaf node based attachment in complex networks**](https://doi.org/10.1109/NCC.2018.8599918){:target="_blank"},"  2018 Twenty
-   Fourth *National Conference on Communications (NCC)*, Hyderabad, February
-   2018, pp. 1-6.
+25. G. Suresh, A. Chakraborty, and B. S. Manoj, "[**Deterministic evolution through indexed leaf node based attachment in complex networks**](https://doi.org/10.1109/NCC.2018.8599918){:target="_blank"},"  2018 Twenty Fourth *National Conference on Communications (NCC)*, Hyderabad, February 2018, pp. 1-6.
 
 24. T. Abhiroop, S. Babu, and B. S. Manoj, "[**A machine learning
    approach for detecting DoS attacks in SDN
