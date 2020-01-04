@@ -9,7 +9,7 @@ layout: article
 <img style="margin-left:80px" class="img-circle" src="images/bsmanoj.png" width="100px" 
 align="left" hspace="30px" vspace="10px">  
 B. S. Manoj, PhD</a>  
-Professor  
+Professor<br> 
 Department of Avionics, IIST 
 
 
