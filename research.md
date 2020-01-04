@@ -17,6 +17,7 @@ communication networks. Major research areas include:
 * Wireless Sensor Networks (WSN)
 * Graph Signal Processing
 * Network Security
+* Quantum Computing
 
 ### Research Projects
 
