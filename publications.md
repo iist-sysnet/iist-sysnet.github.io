@@ -39,7 +39,7 @@ Springer Science Media, pp. 373-400, July 2011.
 
 13. Prescilla K., S. Babu, and B. S. Manoj, "[**Sliding window blockchain architecture for Internet of Things**]()", Accepted for publication in *IEEE Internet of Things Journal*, 2019.
 
-12. Sai Avinash Sattiraju, Abhishek Chakraborty, C. S. Shaijumon, and B. S. Manoj, "[**Corporate linkages and financial performance: A complex network analysis of Indian firms**](https://doi.org/10.1109/TCSS.2019.2960799)", Accepted for publication in *IEEE Transactions on Computational Social Systems*, 2019.
+12. Sai Avinash Sattiraju, Abhishek Chakraborty, C. S. Shaijumon, and B. S. Manoj, "[**Corporate linkages and financial performance: A complex network analysis of Indian firms**](https://doi.org/10.1109/TCSS.2019.2960799){:target="_blank"}", Accepted for publication in *IEEE Transactions on Computational Social Systems*, 2019.
 
 11. S. Babu, P. V. Mithun, and B. S. Manoj, "[**A novel framework for
    resource discovery and self-configuration in software defined wireless
