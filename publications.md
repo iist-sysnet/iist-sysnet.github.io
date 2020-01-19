@@ -37,7 +37,10 @@ Springer Science Media, pp. 373-400, July 2011.
 
 #### Refereed International Journals
 
-13. Prescilla K., S. Babu, and B. S. Manoj, "[**Sliding window blockchain architecture for Internet of Things**]()", Accepted for publication in *IEEE Internet of Things Journal*, 2019.
+13.  Prescilla K., **Sarath Babu**, and B. S. Manoj, "[**Sliding Window
+   Blockchain Architecture for Internet of
+   Things**](https://doi.org/10.1109/JIOT.2020.2967119){:target="_blank"}," Accepted in *IEEE
+   Internet of Things Journal*, January 2020.
 
 12. Sai Avinash Sattiraju, Abhishek Chakraborty, C. S. Shaijumon, and B. S. Manoj, "[**Corporate linkages and financial performance: A complex network analysis of Indian firms**](https://doi.org/10.1109/TCSS.2019.2960799){:target="_blank"}", Accepted for publication in *IEEE Transactions on Computational Social Systems*, 2019.
 
@@ -88,28 +91,22 @@ p. 15, January 2014.
 
 #### Refereed International Conferences
 
-32. M. Gudiseva, A. Chakraborty, and B. S. Manoj, "[**Social network aware dynamic edge server placement for next-generation cellular networks**]()," Accepted in *Proc. COMSNETS 2020*, January 2020.
+31. M. Gudiseva, A. Chakraborty, and B. S. Manoj, "[**Social network aware dynamic edge server placement for next-generation cellular networks**]()," Accepted in *Proc. COMSNETS 2020*, January 2020.
 
-31. K. V. Niranjan Sai, Thanudas B, Sreelal S, Abhishek Chakraborty, and Manoj B. S., "[**MACA-I: A malware detection technique using memory management API call mining**](https://doi.org/10.1109/TENCON.2019.8929250)", *TENCON 2019 - 2019 IEEE Region 10 Conference (TENCON)*, Kochi, India, 2019, pp. 527-532.
+30. K. V. Niranjan Sai, Thanudas B, Sreelal S, Abhishek Chakraborty, and Manoj B. S., "[**MACA-I: A malware detection technique using memory management API call mining**](https://doi.org/10.1109/TENCON.2019.8929250)", *TENCON 2019 - 2019 IEEE Region 10 Conference (TENCON)*, Kochi, India, 2019, pp. 527-532.
 
-30. Suraj R., S. Babu, D. Dalai, and B. S. Manoj, "[**DebriNet: An opportunistic software defined networking framework over PSLV debris**]()", Accepted in *IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS)*, 16-19 December 2019, Goa, India.
+29. Suraj R., S. Babu, D. Dalai, and B. S. Manoj, "[**DebriNet: An opportunistic software defined networking framework over PSLV debris**]()", Accepted in *IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS)*, 16-19 December 2019, Goa, India.
 
-29. S. Babu, Priyanka Rathod, and B. S. Manoj, "[**On optimizing information gathering in shanty town emergency response**](https://doi.org/10.1109/TENCON.2019.8929340)", *TENCON 2019 - 2019 IEEE Region 10 Conference (TENCON)*, Kochi, India, 2019, pp. 129-134.
+28. S. Babu, Priyanka Rathod, and B. S. Manoj, "[**On optimizing information gathering in shanty town emergency response**](https://doi.org/10.1109/TENCON.2019.8929340)", *TENCON 2019 - 2019 IEEE Region 10 Conference (TENCON)*, Kochi, India, 2019, pp. 129-134.
 
-28. A. Chakraborty, B. S. Vineeth and B. S. Manoj, "[**On the evolution of finite-sized complex networks with constrained link addition**](https://doi.org/10.1109/ANTS.2018.8710101){:target="_blank"}," 2018 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), Indore, India, 2018, pp. 1-6.
+27. A. Chakraborty, B. S. Vineeth and B. S. Manoj, "[**On the evolution of finite-sized complex networks with constrained link addition**](https://doi.org/10.1109/ANTS.2018.8710101){:target="_blank"}," 2018 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), Indore, India, 2018, pp. 1-6.
 
-27. V. M. Sruthi, B. Thanudas, S. Sreelal, A. Chakraborty and B. S. Manoj, "[**ACTM: API call transition matrix-based malware detection method**](https://doi.org/10.1109/ANTS.2018.8710081){:target="_blank"}," 2018 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), Indore, India, 2018, pp. 1-6.
+26. V. M. Sruthi, B. Thanudas, S. Sreelal, A. Chakraborty and B. S. Manoj, "[**ACTM: API call transition matrix-based malware detection method**](https://doi.org/10.1109/ANTS.2018.8710081){:target="_blank"}," 2018 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), Indore, India, 2018, pp. 1-6.
 
-26. T. Abhiroop, S. Babu, and B. S. Manoj, "[**A machine learning approach for detecting DoS attacks in SDN switches**](https://doi.org/10.1109/NCC.2018.8600196){:target="_blank"}," 2018 Twenty Fourth *National Conference on Communications (NCC)*, Hyderabad, February 2018, pp. 1-6.
+25. T. Abhiroop, S. Babu, and B. S. Manoj, "[**A machine learning approach for detecting DoS attacks in SDN switches**](https://doi.org/10.1109/NCC.2018.8600196){:target="_blank"}," 2018 Twenty Fourth *National Conference on Communications (NCC)*, Hyderabad, February 2018, pp. 1-6.
 
-25. G. Suresh, A. Chakraborty, and B. S. Manoj, "[**Deterministic evolution through indexed leaf node based attachment in complex networks**](https://doi.org/10.1109/NCC.2018.8599918){:target="_blank"},"  2018 Twenty Fourth *National Conference on Communications (NCC)*, Hyderabad, February 2018, pp. 1-6.
+24. G. Suresh, A. Chakraborty, and B. S. Manoj, "[**Deterministic evolution through indexed leaf node based attachment in complex networks**](https://doi.org/10.1109/NCC.2018.8599918){:target="_blank"},"  2018 Twenty Fourth *National Conference on Communications (NCC)*, Hyderabad, February 2018, pp. 1-6.
 
-24. T. Abhiroop, S. Babu, and B. S. Manoj, "[**A machine learning
-   approach for detecting DoS attacks in SDN
-   switches**](https://doi.org/10.1109/NCC.2018.8600196){:target="_blank"}," 2018 Twenty
-   Fourth *National Conference on Communications (NCC)*, Hyderabad, February
-   2018, pp. 1-6.
-   
 23. P. V. Mithun, S. Babu, and B. S. Manoj, "[**On resolving network
    view inconsistencies in SDN control
    plane**](https://doi.org/10.1109/ANTS.2017.8384108){:target="_blank"}," 2017 *IEEE
