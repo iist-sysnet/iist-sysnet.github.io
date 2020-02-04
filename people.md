@@ -19,7 +19,7 @@ Department of Avionics, IIST
 
 <table>
 <tr>
-<td><figure align="center"><a><img width="100"  class="img-circle"  src="images/prescilla.jpg"><figcaption>Prescilla Koshy, PhD</figcaption></a></figure><br></td>
+<td><figure align="center"><a href="https://drive.google.com/open?id=1Y2Mw_vXKzN0gwBs33QZ9yY_wjbeH-PHP" target="_blank"><img width="100"  class="img-circle"  src="images/prescilla.jpg"><figcaption>Prescilla Koshy, PhD</figcaption></a></figure><br></td>
 </tr>
 </table>
 
