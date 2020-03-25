@@ -64,7 +64,7 @@ Department of Avionics, IIST
 #### Project Fellows
 
 3. [Abhishek Chakraborty](https://chakrabortyabhishek.github.io/) (2018)
-2. [Rahul Singh (2016)](https://rahulsinghchandraul.github.io/){:target="_blank"}
+2. [Rahul Singh (2016)](https://rahulsinghchandraul.github.io/)
 1. Sheena S. Rajan (2015)
 
 #### Undergraduate Students 
@@ -150,7 +150,7 @@ Department of Avionics, IIST
   6. Saket Chawla 
   7. Siddharth Jha
 
-#### Summer Internship Alumni (non-IIST)
+#### Visiting Summer Internship Alumni (non-IIST)
 
 + **2019**
   1. Anantha Krishnan A. S., SRM Institute of Science and Technology, Chennai
