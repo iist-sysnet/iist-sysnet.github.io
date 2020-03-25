@@ -35,9 +35,11 @@ Department of Avionics, IIST
 </table>
 
 #### Undergraduate Students
-1. Grandhi Harshitha 
+1. Grandhi Harshitha
+2. Sai Rishigna K
 
-
+#### Masters Students
+1. Amit Singh (MTech DSP) 2020
 
 #### Lab Staff
 1. Divya R. S.
@@ -50,13 +52,13 @@ Department of Avionics, IIST
 
 1. [Dharmendra Singh Yadav, PhD](https://scholar.google.co.in/citations?user=yGWRD0YAAAAJ&hl=en) (2016)
 
-#### PhD Students
+#### PhD Students 
 
 1. [Abhishek Chakraborty](https://chakrabortyabhishek.github.io/) (2018)
 
 #### Masters Students
 
-1. [Rahul Singh (2015)](https://rahulsinghchandraul.github.io/){:target="_blank"}
+1. [Rahul Singh (2015)](https://rahulsinghchandraul.github.io/)
 
 
 #### Project Fellows
@@ -69,6 +71,7 @@ Department of Avionics, IIST
 
 + **2019 -- 2020**
   1. Ashutosh Saini
+  2. Grandhi Harshita
 
 + **2018 -- 2019**
   1. Ansuman Palo
