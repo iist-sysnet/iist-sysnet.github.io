@@ -4,7 +4,7 @@ layout: article
 
 #### Books
 
-2. B. S. Manoj, "[**Multi-Track Modular Teaching: An Advanced Teaching-Learning Method (Mentoring Series)**](https://www.amazon.com/Multi-Track-Modular-Teaching-Teaching-Learning-Mentoring-ebook/dp/B07RJTR4FH/ref=sr_1_fkmr2_1?keywords=bs+manoj+mt2&qid=1566631976&s=gateway&sr=8-1-fkmr2){:target="_blank"}", BSMP, June, 2019.
+2. B. S. Manoj, "[**Multi-Track Modular Teaching: An Advanced Teaching-Learning Method (Mentoring Series)**](https://www.amazon.com/Multi-Track-Modular-Teaching-Teaching-Learning-Mentoring-ebook/dp/B07RJTR4FH/ref=sr_1_fkmr2_1?keywords=bs+manoj+mt2&qid=1566631976&s=gateway&sr=8-1-fkmr2){:target="_blank"}", BSMP, June, 2019. [**Indian Edition Paperback.**](https://pothi.com/pothi/book/b-s-manoj-multi-track-modular-teaching)
 
 1. B. S. Manoj, Abhishek Chakraborty, and Rahul Singh, "[**Complex Networks: A Networking and Signal Processing Perspective**](
 https://complexnetworksbook.github.io/){:target="_blank"}," Prentice Hall 
