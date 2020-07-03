@@ -89,7 +89,13 @@ p. 15, January 2014.
 
 #### Refereed International Conferences
 
-31. M. Gudiseva, A. Chakraborty, and B. S. Manoj, "[**Social network aware dynamic edge server placement for next-generation cellular networks**]()," Accepted in *Proc. COMSNETS 2020*, January 2020.
+34. A. Chalumuri, R. Kune, and B. S. Manoj, "[**Training an Artificial Neural Network Using Qubits as Artificial Neurons: A Quantum Computing Approach**](https://doi.org/10.1016/j.procs.2020.04.061), Procedia Computer Science, Volume 171, 2020, pp. 568-575, ISSN 1877-0509.
+
+33. A. Chakraborty, B. S. Manoj, and C. Siva Ram Murthy, "[**An efficient scheme for constructing small-world machine-to-machine networks**]()," Accepted in Proc. IEEE ICC 2020, Virtual Conference, June 2020.
+
+32. V. Mohana Sruthi, A. Chakraborty, B. Thanudas, S. Sreelal, and B. S. Manoj, "[**An efficient malware detection technique using complex network-based approach**](https://doi.org/10.1109/NCC48643.2020.9056080)," 2020 National Conference on Communications (NCC), Kharagpur, India, February 2020, pp. 1-6.
+
+31. M. Gudiseva, A. Chakraborty, and B. S. Manoj, "[**Social network aware dynamic edge server placement for next-generation cellular networks**](https://doi.org/10.1109/COMSNETS48256.2020.9027421)," 2020 International Conference on COMmunication Systems & NETworkS (COMSNETS), Bengaluru, India, 2020, pp. 499-502.
 
 30. K. V. Niranjan Sai, Thanudas B, Sreelal S, Abhishek Chakraborty, and Manoj B. S., "[**MACA-I: A malware detection technique using memory management API call mining**](https://doi.org/10.1109/TENCON.2019.8929250)", *TENCON 2019 - 2019 IEEE Region 10 Conference (TENCON)*, Kochi, India, 2019, pp. 527-532.
 
