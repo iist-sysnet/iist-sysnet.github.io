@@ -41,7 +41,7 @@ Springer Science Media, pp. 373-400, July 2011.
 
 14. S. Babu and B. S. Manoj, "[**Toward a type-based analysis of road networks**](https://dl.acm.org/doi/10.1145/3397579)," Accepted in *ACM Transactions on Spatial Algorithms and Systems*, April 2020.
 
-13.  P. Koshy, S. Babu and B. S. Manoj, "[**Sliding Window Blockchain Architecture for Internet of Things**](https://doi.org/10.1109/JIOT.2020.2967119){:target="_blank"}," in IEEE Internet of Things Journal, vol. 7, no. 4, pp. 3338-3348, April 2020.
+13.  P. Koshy, S. Babu and B. S. Manoj, "[**Sliding window blockchain architecture for Internet of Things**](https://doi.org/10.1109/JIOT.2020.2967119){:target="_blank"}," in IEEE Internet of Things Journal, vol. 7, no. 4, pp. 3338-3348, April 2020.
 
 12. S. A. Sattiraju, A. Chakraborty, C. S. Shaijumon and B. S. Manoj, "[**Corporate linkages and financial performance: A complex network analysis of Indian firms**](https://doi.org/10.1109/TCSS.2019.2960799){:target="_blank"}", in IEEE Transactions on Computational Social Systems, vol. 7, no. 2, pp. 339-351, April 2020
 
@@ -89,7 +89,7 @@ p. 15, January 2014.
 
 #### Refereed International Conferences
 
-34. A. Chalumuri, R. Kune, and B. S. Manoj, "[**Training an Artificial Neural Network Using Qubits as Artificial Neurons: A Quantum Computing Approach**](https://doi.org/10.1016/j.procs.2020.04.061), Procedia Computer Science, Volume 171, 2020, pp. 568-575, ISSN 1877-0509.
+34. A. Chalumuri, R. Kune, and B. S. Manoj, "[**Training an artificial neural network using qubits as artificial neurons: A quantum computing approach**](https://doi.org/10.1016/j.procs.2020.04.061), Procedia Computer Science, Volume 171, 2020, pp. 568-575, ISSN 1877-0509.
 
 33. A. Chakraborty, B. S. Manoj, and C. Siva Ram Murthy, "[**An efficient scheme for constructing small-world machine-to-machine networks**]()," Accepted in Proc. IEEE ICC 2020, Virtual Conference, June 2020.
 
