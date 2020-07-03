@@ -24,10 +24,7 @@ https://www.crcpress.com/Soft-Computing-Applications-in-Sensor-Networks/Pal-Misr
 Chapter in the book titled *Soft Computing Applications in Sensor
 Networks*, edited by Prof. Sankar K. Pal and Prof. Sudip Misra, CRC Press (USA), pp. 243-263, August 2016.
 
-2. M. Shyam and B. S. Manoj, "[**A Comparison of Three Sophisticated Cyber Weapons**](
-https://doi.org/10.1201/b16318-19){:target="_blank"}," Chapter in the book titled *Managing Trust in 
-Cyberspace*, edited by Sabu M. Thampi, Bharat Bhargava, and Pradeep 
-K. Atrey, Chapman and Hall/CRC, pp. 387-404, December 2013.
+2. M. Shyam and B. S. Manoj, "[**A Comparison of Three Sophisticated Cyber Weapons**](https://doi.org/10.1201/b16318-19){:target="_blank"}," Chapter in the book titled *Managing Trust in Cyberspace*, edited by Sabu M. Thampi, Bharat Bhargava, and Pradeep K. Atrey, Chapman and Hall/CRC, pp. 387-404, December 2013.
 
 1. T. B. Reddy, B. S. Manoj, and Ramesh Rao, "[**An Autonomous 
 Access Point for Cognitive Wireless Networks**]( 
@@ -37,9 +34,9 @@ Springer Science Media, pp. 373-400, July 2011.
 
 #### Refereed International Journals
 
-15. A. Chakraborty, S. Babu, and B. S. Manoj, "[**On achieving capacity-enhanced small-world networks**](https://doi.org/10.1016/j.physa.2020.124729)," in *Physica A: Statistical Mechanics and its Applications*, May 2020, 124729, ISSN 0378-4371.
+15. A. Chakraborty, S. Babu, and B. S. Manoj, "[**On achieving capacity-enhanced small-world networks**](https://doi.org/10.1016/j.physa.2020.124729){:target="_blank"}," in *Physica A: Statistical Mechanics and its Applications*, May 2020, 124729, ISSN 0378-4371.
 
-14. S. Babu and B. S. Manoj, "[**Toward a type-based analysis of road networks**](https://dl.acm.org/doi/10.1145/3397579)," Accepted in *ACM Transactions on Spatial Algorithms and Systems*, April 2020.
+14. S. Babu and B. S. Manoj, "[**Toward a type-based analysis of road networks**](https://dl.acm.org/doi/10.1145/3397579){:target="_blank"}," Accepted in *ACM Transactions on Spatial Algorithms and Systems*, April 2020.
 
 13.  P. Koshy, S. Babu and B. S. Manoj, "[**Sliding window blockchain architecture for Internet of Things**](https://doi.org/10.1109/JIOT.2020.2967119){:target="_blank"}," in IEEE Internet of Things Journal, vol. 7, no. 4, pp. 3338-3348, April 2020.
 
@@ -89,19 +86,19 @@ p. 15, January 2014.
 
 #### Refereed International Conferences
 
-34. A. Chalumuri, R. Kune, and B. S. Manoj, "[**Training an artificial neural network using qubits as artificial neurons: A quantum computing approach**](https://doi.org/10.1016/j.procs.2020.04.061), Procedia Computer Science, Volume 171, 2020, pp. 568-575, ISSN 1877-0509.
+34. A. Chalumuri, R. Kune, and B. S. Manoj, "[**Training an artificial neural network using qubits as artificial neurons: A quantum computing approach**](https://doi.org/10.1016/j.procs.2020.04.061){:target="_blank"}, Procedia Computer Science, Volume 171, 2020, pp. 568-575, ISSN 1877-0509.
 
-33. A. Chakraborty, B. S. Manoj, and C. Siva Ram Murthy, "[**An efficient scheme for constructing small-world machine-to-machine networks**]()," Accepted in Proc. IEEE ICC 2020, Virtual Conference, June 2020.
+33. A. Chakraborty, B. S. Manoj, and C. Siva Ram Murthy, "[**An efficient scheme for constructing small-world machine-to-machine networks**](){:target="_blank"}," Accepted in Proc. IEEE ICC 2020, Virtual Conference, June 2020.
 
-32. V. Mohana Sruthi, A. Chakraborty, B. Thanudas, S. Sreelal, and B. S. Manoj, "[**An efficient malware detection technique using complex network-based approach**](https://doi.org/10.1109/NCC48643.2020.9056080)," 2020 National Conference on Communications (NCC), Kharagpur, India, February 2020, pp. 1-6.
+32. V. Mohana Sruthi, A. Chakraborty, B. Thanudas, S. Sreelal, and B. S. Manoj, "[**An efficient malware detection technique using complex network-based approach**](https://doi.org/10.1109/NCC48643.2020.9056080){:target="_blank"}," 2020 National Conference on Communications (NCC), Kharagpur, India, February 2020, pp. 1-6.
 
-31. M. Gudiseva, A. Chakraborty, and B. S. Manoj, "[**Social network aware dynamic edge server placement for next-generation cellular networks**](https://doi.org/10.1109/COMSNETS48256.2020.9027421)," 2020 International Conference on COMmunication Systems & NETworkS (COMSNETS), Bengaluru, India, 2020, pp. 499-502.
+31. M. Gudiseva, A. Chakraborty, and B. S. Manoj, "[**Social network aware dynamic edge server placement for next-generation cellular networks**](https://doi.org/10.1109/COMSNETS48256.2020.9027421){:target="_blank"}," 2020 International Conference on COMmunication Systems & NETworkS (COMSNETS), Bengaluru, India, 2020, pp. 499-502.
 
-30. K. V. Niranjan Sai, Thanudas B, Sreelal S, Abhishek Chakraborty, and Manoj B. S., "[**MACA-I: A malware detection technique using memory management API call mining**](https://doi.org/10.1109/TENCON.2019.8929250)", *TENCON 2019 - 2019 IEEE Region 10 Conference (TENCON)*, Kochi, India, 2019, pp. 527-532.
+30. K. V. Niranjan Sai, Thanudas B, Sreelal S, Abhishek Chakraborty, and Manoj B. S., "[**MACA-I: A malware detection technique using memory management API call mining**](https://doi.org/10.1109/TENCON.2019.8929250){:target="_blank"}", *TENCON 2019 - 2019 IEEE Region 10 Conference (TENCON)*, Kochi, India, 2019, pp. 527-532.
 
-29. Suraj R., S. Babu, D. Dalai, and B. S. Manoj, "[**DebriNet: An opportunistic software defined networking framework over PSLV debris**]()", Accepted in *IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS)*, 16-19 December 2019, Goa, India.
+29. Suraj R., S. Babu, D. Dalai, and B. S. Manoj, "[**DebriNet: An opportunistic software defined networking framework over PSLV debris**](https://doi.org/10.1109/ANTS47819.2019.9118082){:target="_blank"}", Accepted in *IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS)*, 16-19 December 2019, Goa, India.
 
-28. S. Babu, Priyanka Rathod, and B. S. Manoj, "[**On optimizing information gathering in shanty town emergency response**](https://doi.org/10.1109/TENCON.2019.8929340)", *TENCON 2019 - 2019 IEEE Region 10 Conference (TENCON)*, Kochi, India, 2019, pp. 129-134.
+28. S. Babu, Priyanka Rathod, and B. S. Manoj, "[**On optimizing information gathering in shanty town emergency response**](https://doi.org/10.1109/TENCON.2019.8929340){:target="_blank"}", *TENCON 2019 - 2019 IEEE Region 10 Conference (TENCON)*, Kochi, India, 2019, pp. 129-134.
 
 27. A. Chakraborty, B. S. Vineeth and B. S. Manoj, "[**On the evolution of finite-sized complex networks with constrained link addition**](https://doi.org/10.1109/ANTS.2018.8710101){:target="_blank"}," 2018 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS), Indore, India, 2018, pp. 1-6.
 
