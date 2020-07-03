@@ -37,17 +37,15 @@ Springer Science Media, pp. 373-400, July 2011.
 
 #### Refereed International Journals
 
-13.  Prescilla K., **Sarath Babu**, and B. S. Manoj, "[**Sliding Window
-   Blockchain Architecture for Internet of
-   Things**](https://doi.org/10.1109/JIOT.2020.2967119){:target="_blank"}," Accepted in *IEEE
-   Internet of Things Journal*, January 2020.
+15. A. Chakraborty, S. Babu, and B. S. Manoj, "[**On achieving capacity-enhanced small-world networks**](https://doi.org/10.1016/j.physa.2020.124729)," in *Physica A: Statistical Mechanics and its Applications*, May 2020, 124729, ISSN 0378-4371.
 
-12. Sai Avinash Sattiraju, Abhishek Chakraborty, C. S. Shaijumon, and B. S. Manoj, "[**Corporate linkages and financial performance: A complex network analysis of Indian firms**](https://doi.org/10.1109/TCSS.2019.2960799){:target="_blank"}", Accepted for publication in *IEEE Transactions on Computational Social Systems*, 2019.
+14. S. Babu and B. S. Manoj, "[**Toward a type-based analysis of road networks**](https://dl.acm.org/doi/10.1145/3397579)," Accepted in *ACM Transactions on Spatial Algorithms and Systems*, April 2020.
 
-11. S. Babu, P. V. Mithun, and B. S. Manoj, "[**A novel framework for
-   resource discovery and self-configuration in software defined wireless
-   mesh networks**](https://doi.org/10.1109/TNSM.2019.2922107){:target="_blank"}," Accepted in
-   *IEEE Transactions on Network and Service Management*, June 2019.
+13.  P. Koshy, S. Babu and B. S. Manoj, "[**Sliding Window Blockchain Architecture for Internet of Things**](https://doi.org/10.1109/JIOT.2020.2967119){:target="_blank"}," in IEEE Internet of Things Journal, vol. 7, no. 4, pp. 3338-3348, April 2020.
+
+12. S. A. Sattiraju, A. Chakraborty, C. S. Shaijumon and B. S. Manoj, "[**Corporate linkages and financial performance: A complex network analysis of Indian firms**](https://doi.org/10.1109/TCSS.2019.2960799){:target="_blank"}", in IEEE Transactions on Computational Social Systems, vol. 7, no. 2, pp. 339-351, April 2020
+
+11. S. Babu, P. V. Mithun and B. S. Manoj, "[**A novel framework for resource discovery and self-configuration in software defined wireless mesh networks**](https://doi.org/10.1109/TNSM.2019.2922107){:target="_blank"}," in IEEE Transactions on Network and Service Management, vol. 17, no. 1, pp. 132-146, March 2020.
 
 10. N. Anand, S. Babu, and B. S. Manoj, "[**On detecting compromised controller in software defined networks**](https://doi.org/10.1016/j.comnet.2018.03.021){:target="_blank"}," in *Elsevier Computer Networks*, vol. 137, pp. 107--118, June 2018.
 
