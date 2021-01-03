@@ -34,9 +34,11 @@ Springer Science Media, pp. 373-400, July 2011.
 
 #### Refereed International Journals
 
-15. A. Chakraborty, S. Babu, and B. S. Manoj, "[**On achieving capacity-enhanced small-world networks**](https://doi.org/10.1016/j.physa.2020.124729){:target="_blank"}," in *Physica A: Statistical Mechanics and its Applications*, May 2020, 124729, ISSN 0378-4371.
+16. S. Babu, A. Rajeev, and B. S. Manoj, "[**A medium-term disruption tolerant SDN for wireless TCP/IP networks**](https://doi.org/10.1109/TNSM.2020.3023889){:target="_blank"}," IEEE Transactions on Network and Service Management, vol. 17, no. 4, pp. 2318-2334, December 2020.
 
-14. S. Babu and B. S. Manoj, "[**Toward a type-based analysis of road networks**](https://dl.acm.org/doi/10.1145/3397579){:target="_blank"}," Accepted in *ACM Transactions on Spatial Algorithms and Systems*, April 2020.
+15. S. Babu and B. S. Manoj, "[**Toward a type-based analysis of road networks**](https://dl.acm.org/doi/10.1145/3397579){:target="_blank"}," Accepted in *ACM Transactions on Spatial Algorithms and Systems*, vol. 6, no. 4, pp. 28:1-28:45, August 2020.
+
+14. A. Chakraborty, S. Babu, and B. S. Manoj, "[**On achieving capacity-enhanced small-world networks**](https://doi.org/10.1016/j.physa.2020.124729){:target="_blank"}," in *Physica A: Statistical Mechanics and its Applications*, May 2020, 124729, ISSN 0378-4371.
 
 13.  P. Koshy, S. Babu and B. S. Manoj, "[**Sliding window blockchain architecture for Internet of Things**](https://doi.org/10.1109/JIOT.2020.2967119){:target="_blank"}," in IEEE Internet of Things Journal, vol. 7, no. 4, pp. 3338-3348, April 2020.
 
@@ -85,6 +87,10 @@ p. 15, January 2014.
 
 
 #### Refereed International Conferences
+
+36. S. Babu, Indranil Ghosh, and B. S. Manoj, "[**Effort: A New Metric for Roadside Unit Placement in 5G Enabled Vehicular Networks**](https://doi.org/10.1109/5GWF49715.2020.9221228){:target="_blank"}", in Proceedings of the 3rd IEEE 5G World Forum (5GWF), September 2020, pp. 263-268.
+
+35. D. Dalai, S. Babu, and B. S. Manoj, "[**On Using Edge Servers in 5G Satellite Networks**](https://doi.org/10.1109/5GWF49715.2020.9221366){:target="_blank"}", in Proceedings of the 3rd IEEE 5G World Forum (5GWF), Sep. 2020, pp. 553-558.
 
 34. A. Chalumuri, R. Kune, and B. S. Manoj, "[**Training an artificial neural network using qubits as artificial neurons: A quantum computing approach**](https://doi.org/10.1016/j.procs.2020.04.061){:target="_blank"}, Procedia Computer Science, Volume 171, 2020, pp. 568-575, ISSN 1877-0509.
 
