@@ -15,15 +15,6 @@ Department of Avionics, IIST
 
 <img height="30px">
 
-#### Post-Doctoral Fellow
-
-<table>
-<tr>
-<td><figure align="center"><a href="https://drive.google.com/open?id=1Y2Mw_vXKzN0gwBs33QZ9yY_wjbeH-PHP" target="_blank"><img width="100"  class="img-circle"  src="images/prescilla.jpg"><figcaption>Prescilla Koshy, PhD</figcaption></a></figure><br></td>
-</tr>
-</table>
-
-
 #### Ph.D. Students
 
 <table>
@@ -35,8 +26,11 @@ Department of Avionics, IIST
 </table>
 
 #### Undergraduate Students
-1. Grandhi Harshitha
-2. Sai Rishigna K
+1. Shivang Bharathi
+2. Pratik Sharma
+3. Gampala Prakash
+4. Uttkarsh Verma
+5. Atul Rawat
 
 #### Masters Students
 1. Amit Singh (MTech DSP) 2020
@@ -50,6 +44,7 @@ Department of Avionics, IIST
 
 #### Post-Doctoral Fellow
 
+2. Prescilla Koshy, PhD (2020)
 1. [Dharmendra Singh Yadav, PhD](https://scholar.google.co.in/citations?user=yGWRD0YAAAAJ&hl=en) (2016)
 
 #### PhD Students 
@@ -72,6 +67,7 @@ Department of Avionics, IIST
 + **2019 -- 2020**
   1. Ashutosh Saini
   2. Grandhi Harshita
+  3. Sai Rishigna K
 
 + **2018 -- 2019**
   1. Ansuman Palo
