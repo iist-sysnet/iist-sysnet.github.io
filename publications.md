@@ -34,6 +34,8 @@ Springer Science Media, pp. 373-400, July 2011.
 
 #### Refereed International Journals
 
+17. A. Chalumuri, R. Kune, and B. S. Manoj, "[**A hybrid classical-quantum approach for multi-class classification**](https://doi.org/10.1007/s11128-021-03029-9){:target="_blank"},", Quantum Information Processing, vol. 20, no. 119, March 2021.
+
 16. S. Babu, A. Rajeev, and B. S. Manoj, "[**A medium-term disruption tolerant SDN for wireless TCP/IP networks**](https://doi.org/10.1109/TNSM.2020.3023889){:target="_blank"}," IEEE Transactions on Network and Service Management, vol. 17, no. 4, pp. 2318-2334, December 2020.
 
 15. S. Babu and B. S. Manoj, "[**Toward a type-based analysis of road networks**](https://dl.acm.org/doi/10.1145/3397579){:target="_blank"}," Accepted in *ACM Transactions on Spatial Algorithms and Systems*, vol. 6, no. 4, pp. 28:1-28:45, August 2020.
