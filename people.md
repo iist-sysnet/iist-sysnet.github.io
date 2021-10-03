@@ -66,91 +66,114 @@ Department of Avionics, IIST
 1. Sheena S. Rajan (2015)
 
 #### Undergraduate Students 
-* **2019 -- 2020**
-  * **Project**
-    1. Grandhi Harshita
-    2. Sai Rishigna K
-  * **Internship**
-    1. Ashutosh Saini
- 
-  
++ **2020 -- 2021**
+    + **Project**
+        - Shivang Bharti
+        - Atul Rawat
+        - Pawar Mayur Sunil
+        - 
++ **2019 -- 2020**
+    + **Project**
+        - Grandhi Harshita
+        - Sai Rishigna K
+    + **Internship**
+        - Ashutosh Saini
+
 + **2018 -- 2019**
-  1. Ansuman Palo
-  2. Kalpita Mandal
-  3. Karumuru Venkata Niranjan Sai
-  4. Pratabidya Panda
-  5. Reuben Chacko Thomas
-  6. S. Sai Avinash
-  7. Suraj R
+    + **Project**
+        - Suraj R
+        - Kalpita Mandal
+        - Manasvi Gudiseva
+        - Niranjan Sai Karumuru
+        - Pratabidya Panda
+   
+    + **Internship**
+        - Ansuman Palo
+        - Reuben Chacko Thomas
+        - S. Sai Avinash
 
 + **2017 -- 2018**
-  1. Alsaj A. S.
-  2. T. Abhiroop
-  3. V. Mohanasruthi 
-  4. Gautham Suresh
-  5. Kolli Aravind
-  6. Sunkara Jaya Chand
+    + **Project**
+        - V. MOhanasruthi
+        - Ishika Ghara
+        - Alsaj A. S.
+        - T. Abhiroop
+    + **Internship**
+        - Gautham Suresh
+        - Kolli Aravind
+        - Sunkara Jaya Chand
 
 + **2016 -- 2017**
-  1. Anand Narayanan
-  2. Ishika Ghara
-  3. Keshav Dayal
-  4. Mithun P. V.
-  5. Priyanka Rathod 
-  4. Yuvaraj Sinh Surendrakumar
-  5. Y. Naga Rahul
+    + **Project**
+        - Anand Narayanan
+        - Keshav Dayal
+        - Mithun P. V.
+        - Priyanka Rathod
+        - Yuvaraj Sinh Surendrakumar
+    + **Internship**
+        - Ishika Ghara
+        - Y. Naga Rahul
 
 + **2015 -- 2016**
-  1. Ajay Salas
-  2. Amal Krishna
-  3. Anuj Sarode Ghanshyambhai
-  4. Bharath Devasani
-  5. Devi Reddy Pramod Reddy
-  6. Palash Joshi
-  7. Prakhar Gupta  
-  8. Saurav Maji
-  9. Devireddy Pramod Reddy
-  
-  
+    + **Project**
+        - Ajay Salas
+        - Prakhar Gupta
+        - Amal Krishna
+        - Saurav Maji
+        - Palash Joshi
+        - Bharath Devasani
+        - Srikanth Pragallapati
+        - P S V Sai Teja
+        - Sreeram Gade
+        - Sarode Anuj Ghanshyambhai
+    + **Internship**
+        - Devi Reddy Pramod Reddy
+
 + **2014 -- 2015**
-  1. Abhishek Bhaumick
-  2. Anugolu Purnesh Sai Ram
-  3. Deepak Kumar Khatri
-  4. Gulshan Gupta
-  5. M. Aditya Vamsi
-  6. Malreddy Yashwant Reddy   
-  7. Priti Singh
-  8. Somarouth Sai Srinivas
-  9. Vinay Gajmoti 
-  10. Yogesh Parth  
-  11. Pamidiparthi Ravi Teja Naidu
-  12. Sourajit Debnath
+    + **Project**
+        - Somarouth Sai Srinivas
+        - Vinay Gajmoti
+        - Anugolu Purnesh Sai Ram
+        - M. Aditya Vamsi
+        - Malreddy Yashwant Reddy
+        - Yogesh Parth
+        - Deepak Kumar Khatri
+        - Abhishek Bhaumick
+        - Priti Singh 
+    + **Intership**
+        - Gulshan Gupta
+        - Pamidiparthi Ravi Teja Naidu
+        - Sourajit Debnath
  
   
 + **2013 -- 2014**
-  1. Arun K. P.
-  2. Gaurav Jain 
-  3. Ishita Ganjoo  
-  4. Nivedita Gaur  
-  5. Rohit Tyagi 
-  6. Tuhin Paul
-  
+    + **Project**
+        - Tuhin Paul
+        - Rohit Tyagi
+        - Arun K. P.
+        - Nivedita Gaur
+        - Gaurav Jain
+        - Ishita Ganjoo
+ 
 + **2012 -- 2013**
-  1. Aritra Sarkar
-  2. Muna Kumar Singh
-  3. Shyam Vinay 
-  4. Siddharth Srivastava 
-  5. Sukirna Roy   
-   
+    + **Project**
+        - Muna Kumar Singh
+        - Shyam Vinay
+        - Sukima Roy
+        - Siddharth Srivastava
+        - Aritra SArkar
+    
 + **2011 -- 2012**
-  1. Ajith Kanale
-  2. Anusha Singamaneni
-  3. Karan Lal
-  4. Prashanth Ranjan 
-  5. Rajnish Kumar Yadav 
-  6. Saket Chawla 
-  7. Siddharth Jha
-
+    + **Project**
+        - Raghuveer Santosh Bommidi
+        - Rajnish Kumar Yadav
+        - Saket Chawla
+        - Ajith Kanale
+        - Anusha Singamaneni
+        - Prashanth Ranjan
+        - Siddarth Jha
+        - Karan Lal  
+ 
 #### Visiting Summer Internship Alumni (non-IIST)
 
 + **2019**
