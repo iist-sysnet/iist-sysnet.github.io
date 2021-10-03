@@ -27,14 +27,15 @@ Department of Avionics, IIST
 </table>
 
 #### Undergraduate Students
-1. Shivang Bharathi
-2. Pratik Sharma
-3. Gampala Prakash
-4. Uttkarsh Verma
-5. Atul Rawat
++ **Internship**
+    - Majji Sathwik Reddy
+    - Chalumuru Venkata Saikiran
+    - Jishil Jinaraj
 
 #### Masters Students
-1. Amit Singh (MTech DSP) 2020
++ **Project**
+    - Abhishek Samundre
+    - G. Chanda Sri 
 
 #### Lab Staff
 1. Divya R. S.
@@ -57,6 +58,7 @@ Department of Avionics, IIST
 #### Masters Students
 
 1. [Rahul Singh (2015)](https://rahulsinghchandraul.github.io/)
+2. Amit Singh (2020)
 
 
 #### Project Fellows
