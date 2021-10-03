@@ -35,7 +35,7 @@ Department of Avionics, IIST
 #### Masters Students
 + **Project**
     1. Abhishek Samundre
-    2. G. Chanda Sri 
+    2. G. Chandasri 
 
 #### Lab Staff
 1. Divya R. S.
@@ -142,7 +142,7 @@ Department of Avionics, IIST
         - Deepak Kumar Khatri
         - Abhishek Bhaumick
         - Priti Singh 
-    + **Intership**
+    + **Internship**
         - Gulshan Gupta
         - Pamidiparthi Ravi Teja Naidu
         - Sourajit Debnath
