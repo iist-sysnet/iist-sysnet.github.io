@@ -19,7 +19,6 @@ Department of Avionics, IIST
 
 <table>
 <tr>
-<td><figure align="center"><a href="https://4sarathbabu.github.io/" target="_blank"><img width="100px" height="100px" class="img-circle"  src="images/sarath.jpg"><figcaption>Sarath Babu</figcaption></a>(2014-Present)</figure></td>
 <td><figure align="center"><img width="100px"  class="img-circle"  src="images/avinash.png"><figcaption>Chalumuri Avinash</figcaption>(2018-Present)</figure></td>
 <td><figure align="center"><a href="https://www.linkedin.com/in/debabrata-dalai-a88b6486"><img width="88px"  class="img-circle"  src="images/debabrata.png"><figcaption>Debabrata Dalai</figcaption></a>(2018-Present)</figure></td>
 </tr>
@@ -49,7 +48,9 @@ Department of Avionics, IIST
 
 #### PhD Students 
 
+2. [Sarath Babu](https://4sarathbabu.github.io/) (2021)
 1. [Abhishek Chakraborty](https://chakrabortyabhishek.github.io/) (2018)
+
 
 #### Masters Students
 
