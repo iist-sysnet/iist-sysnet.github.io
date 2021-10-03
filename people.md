@@ -28,14 +28,14 @@ Department of Avionics, IIST
 
 #### Undergraduate Students
 + **Internship**
-    - Majji Sathwik Reddy
-    - Chalumuru Venkata Saikiran
-    - Jishil Jinaraj
+    1. Majji Sathwik Reddy
+    2. Chalumuru Venkata Saikiran
+    3. Jishil Jinaraj
 
 #### Masters Students
 + **Project**
-    - Abhishek Samundre
-    - G. Chanda Sri 
+    1. Abhishek Samundre
+    2. G. Chanda Sri 
 
 #### Lab Staff
 1. Divya R. S.
