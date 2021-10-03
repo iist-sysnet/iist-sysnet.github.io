@@ -73,7 +73,7 @@ Department of Avionics, IIST
         - Shivang Bharti
         - Atul Rawat
         - Pawar Mayur Sunil
-        - 
+
 + **2019 -- 2020**
     + **Project**
         - Grandhi Harshita
