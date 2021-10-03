@@ -30,20 +30,20 @@ communication networks. Major research areas include:
 * Information Technology Research Academy ([ITRA](http://itra.medialabasia.in){:target="_blank"}), Government of India  
 <br>
 
-1. **Research and Development of an Integrated Enterprise Network Security System**  
+2. **Research and Development of an Integrated Enterprise Network Security System**  
 *Duration*: Two years  
 *Collaboration with*:  
 * Indian Institute of Space Science and Technology ([IIST](https://www.iist.ac.in){:target="_blank"}), Thiruvananthapuram
 * Indian Space Research Organization (ISRO)  
 <br>
 
-1. **IIST MeshNet: A Programmable Hybrid Wireless Mesh Network Testbed**  
+3. **IIST MeshNet: A Programmable Hybrid Wireless Mesh Network Testbed**  
 *Duration*: Mar 2013 - Mar 2016  
 *Collaboration with*: 
 * Indian Institute of Space Science and Technology ([IIST](https://www.iist.ac.in){:target="_blank"}), Thiruvananthapuram  
 <br>
 
-1. **Indo-US Collaborative Research on Pervasive Computing for Disaster Response**  
+4. **Indo-US Collaborative Research on Pervasive Computing for Disaster Response**  
 *Duration*: Feb 2014 - Jun 2016 
 *Collaboration with*: 
 * Indian Institute of Space Science and Technology ([IIST](https://www.iist.ac.in){:target="_blank"}), Thiruvananthapuram
