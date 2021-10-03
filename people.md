@@ -67,9 +67,9 @@ Department of Avionics, IIST
 
 #### Undergraduate Students 
 * **2019 -- 2020**
- * **Project**
-  1. Grandhi Harshita
-  2. Sai Rishigna K
+  * **Project**
+    1. Grandhi Harshita
+    2. Sai Rishigna K
  
   
 + **2018 -- 2019**
