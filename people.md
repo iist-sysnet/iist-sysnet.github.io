@@ -70,6 +70,8 @@ Department of Avionics, IIST
   * **Project**
     1. Grandhi Harshita
     2. Sai Rishigna K
+  * **Internship**
+    1. Ashutosh Saini
  
   
 + **2018 -- 2019**
