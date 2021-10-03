@@ -68,10 +68,12 @@ Department of Avionics, IIST
 #### Undergraduate Students 
 
 + **2019 -- 2020**
+ 1. Project
+  * Grandhi Harshita
+  * Sai Rishigna K
+ + Internship
   1. Ashutosh Saini
-  2. Grandhi Harshita
-  3. Sai Rishigna K
-
+  
 + **2018 -- 2019**
   1. Ansuman Palo
   2. Kalpita Mandal
