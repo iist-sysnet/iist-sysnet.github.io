@@ -66,13 +66,11 @@ Department of Avionics, IIST
 1. Sheena S. Rajan (2015)
 
 #### Undergraduate Students 
-
-+ **2019 -- 2020**
- 1. Project
-  * Grandhi Harshita
-  * Sai Rishigna K
- + Internship
-  1. Ashutosh Saini
+* **2019 -- 2020**
+ * **Project**
+  1. Grandhi Harshita
+  2. Sai Rishigna K
+ 
   
 + **2018 -- 2019**
   1. Ansuman Palo
