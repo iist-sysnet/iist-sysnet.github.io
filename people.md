@@ -35,7 +35,7 @@ Department of Avionics, IIST
 #### Masters Students
 + **Project**
     1. Abhishek Samundre
-    2. G. Chandasri 
+    2. [Chandasri G](https://www.linkedin.com/in/chandasri-g-859454208/)
 
 #### Lab Staff
 1. Divya R. S.
