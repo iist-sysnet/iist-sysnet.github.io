@@ -92,7 +92,9 @@ p. 15, January 2014.
 
 #### Refereed International Conferences
 
-36. S. Babu, Indranil Ghosh, and B. S. Manoj, "[**Effort: A New Metric for Roadside Unit Placement in 5G Enabled Vehicular Networks**](https://doi.org/10.1109/5GWF49715.2020.9221228){:target="_blank"}", in Proceedings of the 3rd IEEE 5G World Forum (5GWF), September 2020, pp. 263-268.
+37. A. Salas, S. Babu and B. S. Manoj, "[**A Light-Weight Delay Tolerant Networking Framework for Resource-Constrained Environments**](https://doi.org/10.1109/NCC52529.2021.9530075){:target="_blank"}", _2021 National Conference on Communications (NCC), Sep 2021, pp. 1-6._
+
+36. S. Babu, Indranil Ghosh, and B. S. Manoj, "[**Effort: A New Metric for Roadside Unit Placement in 5G Enabled Vehicular Networks**](https://doi.org/10.1109/5GWF49715.2020.9221228){:target="_blank"}", in Proceedings of the 3rd IEEE 5G World Forum (5GWF), Sep 2020, pp. 263-268.
 
 35. D. Dalai, S. Babu, and B. S. Manoj, "[**On Using Edge Servers in 5G Satellite Networks**](https://doi.org/10.1109/5GWF49715.2020.9221366){:target="_blank"}", in Proceedings of the 3rd IEEE 5G World Forum (5GWF), Sep. 2020, pp. 553-558.
 
