@@ -22,7 +22,7 @@ Department of Avionics, IIST
 <td><figure align="center"><a href="https://www.linkedin.com/in/avinash-chalumuri-57ab2616b/"><img width="100px"  class="img-circle"  src="images/avinash.png"><figcaption>Chalumuri Avinash</figcaption></a>(2018-Present)</figure></td>
 <td><figure align="center"><a href="https://www.linkedin.com/in/debabrata-dalai-a88b6486"><img width="88px"  class="img-circle"  src="images/debabrata.png"><figcaption>Debabrata Dalai</figcaption></a>(2018-Present)</figure></td>
 <td><figure align="center"><img width="95px"  class="img-circle"  src="images/lady_icon.png"><figcaption>Anjali M. J.</figcaption>(2021-Present)</figure></td>
-<td><figure align="center"><img width="88px"  class="img-circle"  src="images/thirupatirajan.png"><figcaption>Thiruppathirajan Sankaralingam</figcaption>(2013-Present)(ISRO Sponsered)</figure></td>
+<td><figure align="center"><a href="https://www.linkedin.com/in/thiruppathirajan-sankaralingam-009a2811/"><img width="88px"  class="img-circle"  src="images/thirupatirajan.png"><figcaption>Thiruppathirajan Sankaralingam</figcaption></a>(2013-Present)(ISRO Sponsered)</figure></td>
 </tr>
 </table>
 
