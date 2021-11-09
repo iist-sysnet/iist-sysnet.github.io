@@ -34,7 +34,9 @@ Springer Science Media, pp. 373-400, July 2011.
 
 #### Refereed International Journals
 
-17. A. Chalumuri, R. Kune, and B. S. Manoj, "[**A hybrid classical-quantum approach for multi-class classification**](https://doi.org/10.1007/s11128-021-03029-9){:target="_blank"},", Quantum Information Processing, vol. 20, no. 119, March 2021.
+18. Thiruppathirajan S., Lakshmi Narayanan R., Sreelal S., and B. S. Manoj, "[**Maximum Likelihood Estimation of Time-Varying Sparsity Level for Dynamic Sparse Signals**](https://doi.org/10.1109/ACCESS.2021.3113871){:target="_blank"}," in IEEE Access, vol. 9, pp. 136687-136701, September 2021.
+
+17. A. Chalumuri, R. Kune, and B. S. Manoj, "[**A hybrid classical-quantum approach for multi-class classification**](https://doi.org/10.1007/s11128-021-03029-9){:target="_blank"}," Quantum Information Processing, vol. 20, no. 119, March 2021.
 
 16. S. Babu, A. Rajeev, and B. S. Manoj, "[**A medium-term disruption tolerant SDN for wireless TCP/IP networks**](https://doi.org/10.1109/TNSM.2020.3023889){:target="_blank"}," IEEE Transactions on Network and Service Management, vol. 17, no. 4, pp. 2318-2334, December 2020.
 
