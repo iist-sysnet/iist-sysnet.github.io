@@ -1,3 +1,7 @@
-## Undergraduate Students
+---
+layout: article
+---
 
-## Visiting Summer Internships
+#### Undergraduate Students
+
+#### Visiting Summer Internships
