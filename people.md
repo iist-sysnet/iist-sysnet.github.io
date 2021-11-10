@@ -67,7 +67,7 @@ Department of Avionics, IIST
 2. [Rahul Singh (2016)](https://rahulsinghchandraul.github.io/)
 1. Sheena S. Rajan (2015)
 
-#### Undergraduate Students 
+#### [Undergraduate Students](undergraduate.html) 
 + **2020 -- 2021**
     + **Project**
         - Shivang Bharti
