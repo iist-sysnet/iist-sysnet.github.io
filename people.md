@@ -19,7 +19,7 @@ Department of Avionics, IIST
 
 <table>
 <tr>
-<td><figure align="center"><a href="https://www.linkedin.com/in/avinash-chalumuri-57ab2616b/"><img width="100px"  class="img-circle"  src="images/avinash.png"><figcaption>Chalumuri Avinash</figcaption></a>(2018-Present)</figure></td>
+<td><figure align="center"><a href="https://www.linkedin.com/in/avinash-chalumuri-57ab2616b/"><img width="100px"  class="img-circle"  src="images/avinash.png"><figcaption>Avinash Chalumuri</figcaption></a>(2018-Present)</figure></td>
 <td><figure align="center"><a href="https://www.linkedin.com/in/debabrata-dalai-a88b6486"><img width="90px"  class="img-circle"  src="images/debabrata.png"><figcaption>Debabrata Dalai</figcaption></a>(2018-Present)</figure></td>
 <td><figure align="center"><a href="https://www.linkedin.com/in/anjali-m-j-6681494b/"><img width="90px"  class="img-circle"  src="images/anjalimj.png"><figcaption>Anjali M. J.</figcaption>(2021-Present)</figure></td>
 <td><figure align="center"><a href="https://www.linkedin.com/in/thiruppathirajan-sankaralingam-009a2811/"><img width="90px"  class="img-circle"  src="images/thirupatirajan.png"><figcaption>Thiruppathirajan Sankaralingam</figcaption></a>(2013-Present)(ISRO Sponsered)</figure></td>
