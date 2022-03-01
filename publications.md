@@ -233,6 +233,14 @@ Sarabhai Space Center, Trivandrum, January 2015.
 1. S. Babu, G. Jain, and B. S. Manoj, "[**Urban Delay Tolerant Network Simulator (UDTNSim v0. 1)**](
 http://arxiv.org/abs/1709.05645){:target="_blank"}." arXiv preprint arXiv:1709.05645 (2017).
 
+#### TechRxiv Preprints
+
+1. A. D. Dhruva, S. Babu, A. Chakraborty, and B. S. Manoj (2022), "**Computing Boards for Internet of 
+Things: A Comparative Survey.**, TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.18517235.v1 
+
+2. D. Dalai, S. Babu, Vineeth B.S., and  B. S. Manoj  (2022), **A Novel Space Based Hosting Approach for 
+Ultra Low Latency Web Services.** TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.18666455.v1 
+
 #### Technical Reports
 
 1. A. Chakraborty, Vineeth B. S., and B. S. Manoj, "**A study on constrained long-ranged link addition in
