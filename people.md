@@ -36,6 +36,7 @@ Department of Avionics, IIST
 + **Project**
     1. Abhishek Samundre
     2. [Chandasri G](https://www.linkedin.com/in/chandasri-g-859454208/)
+    3. Prabhakar Kumar
 
 #### Lab Staff
 1. Divya R. S.
