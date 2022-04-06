@@ -33,7 +33,7 @@ https://doi.org/10.1007/978-1-4419-6172-3_15){:target="_blank"}," in
 Springer Science Media, pp. 373-400, July 2011.
 
 #### Refereed International Journals
-21. A. Chalumuri, R. Kune, S. Kannan, and B. S. Manoj, "[**Quantum-Classical Image Processing for Scene Classification**]," accepted for publication in IEEE Sensors Letters, April 2022.
+21. A. Chalumuri, R. Kune, S. Kannan, and B. S. Manoj, "[**Quantum-Classical Image Processing for Scene Classification**](){:target="_blank"}," accepted for publication in IEEE Sensors Letters, April 2022.
 
 20. Thiruppathirajan S., Lakshmi Narayanan R., Sreelal S., and B. S. Manoj, "[**Sparsity Order Estimation for Compressed Sensing System Using Sparse Binary Sensing Matrix**](https://doi.org/10.1109/ACCESS.2022.3161523){:target="_blank"}," in IEEE Access, vol. 9, pp. 136687-136701, March 2022.
 
