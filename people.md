@@ -52,6 +52,7 @@ Department of Avionics, IIST
 
 #### PhD Students 
 
+3. [Avinash Chalamuri](https://www.linkedin.com/in/avinash-chalumuri-57ab2616b)) (2023)
 2. [Sarath Babu](https://4sarathbabu.github.io/) (2021)
 1. [Abhishek Chakraborty](https://chakrabortyabhishek.github.io/) (2018)
 
