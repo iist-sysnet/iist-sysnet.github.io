@@ -5,11 +5,11 @@ layout: article
 ### Faculty
  
 
-<a href="https://www.iist.ac.in/avionics/bsmanoj" target="_blank">
+<a href="https://www.iist.ac.in/people-faculty-profile/b-s-manoj" target="_blank">
 <img style="margin-left:80px" class="img-circle" src="images/bsmanoj.png" width="100px" 
 align="left" hspace="30px" vspace="10px">  
 B. S. Manoj, PhD</a>  
-Professor<br> 
+Senior Professor and Associate Dean<br> 
 Department of Avionics, IIST 
 
 
@@ -19,10 +19,10 @@ Department of Avionics, IIST
 
 <table>
 <tr>
-<td><figure align="center"><a href="https://www.linkedin.com/in/avinash-chalumuri-57ab2616b/"><img width="100px"  class="img-circle"  src="images/avinash.png"><figcaption>Avinash Chalumuri</figcaption></a>(2018-Present)</figure></td>
+
 <td><figure align="center"><a href="https://www.linkedin.com/in/debabrata-dalai-a88b6486"><img width="90px"  class="img-circle"  src="images/debabrata.png"><figcaption>Debabrata Dalai</figcaption></a>(2018-Present)</figure></td>
 <td><figure align="center"><a href=""><img width="90px"  class="img-circle"  src="images/renjith.png"><figcaption>Renjith P</figcaption></a>(2021-Present)(ISRO Sponsered)</figure></td>
-<td><figure align="center"><a href="https://www.linkedin.com/in/thiruppathirajan-sankaralingam-009a2811/"><img width="90px"  class="img-circle"  src="images/thirupatirajan.png"><figcaption>Thiruppathirajan Sankaralingam</figcaption></a>(2013-Present)(ISRO Sponsered)</figure></td>
+<td><figure align="center"><a href="https://www.linkedin.com/in/neethusajeev"><img width="90px"  class="img-circle"  src="images/debabrata.png"><figcaption>Neethu Sajeev</figcaption></a>(2023-Present)</figure></td>
 </tr>
 </table>
 
@@ -50,19 +50,21 @@ Department of Avionics, IIST
 2. Prescilla Koshy, PhD (2020)
 1. [Dharmendra Singh Yadav, PhD](https://scholar.google.co.in/citations?user=yGWRD0YAAAAJ&hl=en) (2016)
 
-#### PhD Students 
+#### PhD Students  (Alumni)
 
+4.<td><figure align="center"><a href="https://www.linkedin.com/in/thiruppathirajan-sankaralingam-009a2811/"><img width="90px"  class="img-circle"  src="images/thirupatirajan.png"><figcaption>Thiruppathirajan Sankaralingam</figcaption></a>(2013-Present)(ISRO Sponsered)</figure></td>
+3. <td><figure align="center"><a href="https://www.linkedin.com/in/avinash-chalumuri-57ab2616b/"><img width="100px"  class="img-circle"  src="images/avinash.png"><figcaption>Avinash Chalumuri</figcaption></a>(2018-Present)</figure></td>
 2. [Sarath Babu](https://4sarathbabu.github.io/) (2021)
 1. [Abhishek Chakraborty](https://chakrabortyabhishek.github.io/) (2018)
 
 
-#### Masters Students
+#### Masters Students (Alumni)
 
 1. [Rahul Singh (2015)](https://rahulsinghchandraul.github.io/)
 2. Amit Singh (2020)
 
 
-#### Project Fellows
+#### Project Fellows (Alumni)
 
 3. [Abhishek Chakraborty](https://chakrabortyabhishek.github.io/) (2018)
 2. [Rahul Singh (2016)](https://rahulsinghchandraul.github.io/)
