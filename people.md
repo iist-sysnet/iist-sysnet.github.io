@@ -23,6 +23,7 @@ Department of Avionics, IIST
 <td><figure align="center"><a href="https://www.linkedin.com/in/debabrata-dalai-a88b6486"><img width="90px"  class="img-circle"  src="images/debabrata.png"><figcaption>Debabrata Dalai</figcaption></a>(2018-Present)</figure></td>
 <td><figure align="center"><a href=""><img width="90px"  class="img-circle"  src="images/renjith.png"><figcaption>Renjith P</figcaption></a>(2021-Present)(ISRO Sponsered)</figure></td>
 <td><figure align="center"><a href="https://www.linkedin.com/in/neethu-sajeev1000369"><img width="90px"  class="img-circle"  src="images/debabrata.png"><figcaption>Neethu Sajeev</figcaption></a>(2023-Present)</figure></td>
+<td><figure align="center"><a href="https://www.linkedin.com/in/sruthi-subrahmanian81//"><img width="90px"  class="img-circle"  src="images/debabrata.png"><figcaption>Sruthi Subrahmanyan</figcaption></a>(2023-Present)</figure></td>
 </tr>
 </table>
 
