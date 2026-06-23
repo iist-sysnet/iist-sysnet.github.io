@@ -8,7 +8,7 @@
 
 ## Usage
 
-To use the Slate theme:
+To use the Slate theme: 
 
 1. Add the following to your site's `_config.yml`:
 
